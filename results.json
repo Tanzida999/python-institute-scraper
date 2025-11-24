@@ -1,0 +1,4476 @@
+[
+  {
+    "name": "Winsor School Library",
+    "address": "Pilgrim Road, Boston, 02215",
+    "phone": "",
+    "lat": 42.3410229,
+    "lon": -71.1075466,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Pilgrim Road",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Winsor School Library",
+      "operator": "Winsor School",
+      "region": "Boston",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "School"
+    }
+  },
+  {
+    "name": "Cambridge Hospital Bor Medical Library",
+    "address": "1493, Cambridge Street, Cambridge",
+    "phone": "",
+    "lat": 42.374487,
+    "lon": -71.1042697,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "1493",
+      "addr:state": "MA",
+      "addr:street": "Cambridge Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "location": "indoor",
+      "name": "Cambridge Hospital Bor Medical Library",
+      "office": "Cambridge Hospital, Cambridge Health Alliance",
+      "operator": "Cambridge Hospital",
+      "operator:type": "private_non_profit",
+      "region": "Metrowest",
+      "source_url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Special"
+    }
+  },
+  {
+    "name": "Albert Alphin Library",
+    "address": "8, Fenway, Boston, 02215",
+    "phone": "",
+    "lat": 42.3454876,
+    "lon": -71.0903462,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "8",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Fenway",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Albert Alphin Library",
+      "office": "The Boston Conservatory",
+      "region": "Boston",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Academic"
+    }
+  },
+  {
+    "name": "Adult Literacy Resource Center",
+    "address": "989, Commonwealth Avenue, Boston, 02215",
+    "phone": "",
+    "lat": 42.3520334,
+    "lon": -71.1203123,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "989",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Adult Literacy Resource Center",
+      "office": "Alri/Sabes Boston Regional Support Center",
+      "region": "Boston",
+      "source_url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Special-Institutional"
+    }
+  },
+  {
+    "name": "The Libraries",
+    "address": "243, Charles Street, Boston, 02114",
+    "phone": "",
+    "lat": 42.3633915,
+    "lon": -71.0694278,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "243",
+      "addr:postcode": "02114",
+      "addr:state": "MA",
+      "addr:street": "Charles Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "The Libraries",
+      "office": "Massachusetts Eye And Ear Infirmary",
+      "region": "Boston",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Special-Medical"
+    }
+  },
+  {
+    "name": "Bakalar Music Library",
+    "address": "1, Follen Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3787529,
+    "lon": -71.1233952,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "1",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Follen Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Bakalar Music Library",
+      "office": "Longy School Of Music",
+      "region": "Metrowest",
+      "source_url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Academic"
+    }
+  },
+  {
+    "name": "Cummings School Library",
+    "address": "42, Prescott Street, Somerville, 02143",
+    "phone": "",
+    "lat": 42.3854932,
+    "lon": -71.0992628,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "42",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Prescott Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Cummings School Library",
+      "note": "FIXME: not sure which school building contains the library",
+      "office": "Cummings School",
+      "region": "Metrowest",
+      "source_url": "http://mass.gov/mgis/libraries.htm",
+      "type": "School"
+    }
+  },
+  {
+    "name": "William Morris Hunt Memorial Library",
+    "address": "300, Massachusetts Avenue, Boston",
+    "phone": "",
+    "lat": 42.3432777,
+    "lon": -71.0851429,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "300",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "library",
+      "email": "libstaff@mfa.org",
+      "name": "William Morris Hunt Memorial Library",
+      "office": "Museum Of Fine Arts",
+      "region": "Boston",
+      "type": "Special",
+      "website": "https://www.mfa.org/collections/libraries-and-archives"
+    }
+  },
+  {
+    "name": "Snowden International School Library",
+    "address": "150, Newbury Street, Boston, 02116",
+    "phone": "",
+    "lat": 42.3505737,
+    "lon": -71.0779829,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "150",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Newbury Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "gnis:feature_id": "2343431",
+      "name": "Snowden International School Library",
+      "operator": "Snowden International School",
+      "ref:isil": "OCLC-SNWIS",
+      "region": "Boston",
+      "source": "USGS Geonames",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "School",
+      "wikidata": "Q7548578"
+    }
+  },
+  {
+    "name": "Advent School Library",
+    "address": "17, Brimmer Street, Boston, 02108",
+    "phone": "",
+    "lat": 42.3582426,
+    "lon": -71.0721306,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "17",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "Brimmer Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Advent School Library",
+      "office": "Advent School",
+      "region": "Boston",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "School"
+    }
+  },
+  {
+    "name": "Patient And Family Learning Center",
+    "address": "55, Fruit Street, Boston",
+    "phone": "",
+    "lat": 42.3629815,
+    "lon": -71.0685994,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "55",
+      "addr:state": "MA",
+      "addr:street": "Fruit Street",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "Patient And Family Learning Center",
+      "office": "Massachusetts General Hospital",
+      "region": "Boston",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Special"
+    }
+  },
+  {
+    "name": "Harrison Lyman Library",
+    "address": "Science Park, Boston",
+    "phone": "",
+    "lat": 42.367256,
+    "lon": -71.070508,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:state": "MA",
+      "addr:street": "Science Park",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "ele": "4",
+      "gnis:feature_id": "2342406",
+      "name": "Harrison Lyman Library",
+      "office": "Museum Of Science",
+      "region": "Boston",
+      "source": "USGS Geonames",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Special"
+    }
+  },
+  {
+    "name": "The Learning Center",
+    "address": "330, Brookline Avenue, Boston, 02215",
+    "phone": "",
+    "lat": 42.34128,
+    "lon": -71.10468,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "330",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Brookline Avenue",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "name": "The Learning Center",
+      "office": "Beth Israel Deaconess Medical Center",
+      "region": "Boston",
+      "source_url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Special"
+    }
+  },
+  {
+    "name": "The Learning Project Elementary School",
+    "address": "107, Marlborough Street, Boston, 02116",
+    "phone": "+1-617-266-8427",
+    "lat": 42.3535373,
+    "lon": -71.0770897,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "107",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Marlborough Street",
+      "amenity": "school",
+      "charge": "23500 USD",
+      "check_date": "2023-06-07",
+      "education": "school",
+      "email": "tlp@learningproject.org",
+      "fax": "+1-617-266-3543",
+      "fee": "yes",
+      "grades": "K-6",
+      "name": "The Learning Project Elementary School",
+      "operator": "The Learning Project",
+      "operator:type": "private",
+      "phone": "+1-617-266-8427",
+      "religion": "none",
+      "school": "yes",
+      "start_date": "1978",
+      "type": "Private",
+      "website": "https://www.learningproject.org/"
+    }
+  },
+  {
+    "name": "EDCO Youth Alternative",
+    "address": "650, Beacon Street, Boston, 02215",
+    "phone": "+1 617 262 9562",
+    "lat": 42.3493369,
+    "lon": -71.095856,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "650",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Beacon Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "level": "3",
+      "massgis:school_id": "05230001",
+      "name": "EDCO Youth Alternative",
+      "operator": "EDCO Collaborative",
+      "phone": "+1 617 262 9562",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Collaborative Program",
+      "website": "https://edcoyouthalternative.com/"
+    }
+  },
+  {
+    "name": "Newman School",
+    "address": "245-247, Marlborough Street, Boston, 02116",
+    "phone": "+1-617-267-4530",
+    "lat": 42.3521992,
+    "lon": -71.0819614,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "245-247",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Marlborough Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "check_date": "2023-06-07",
+      "education": "school",
+      "email": "info@newmanboston.org",
+      "fax": "+1-617-267-7070",
+      "grades": "9,10,11,12",
+      "massgis:school_id": "00350794",
+      "name": "Newman School",
+      "phone": "+1-617-267-4530",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "start_date": "1945-01-01",
+      "type": "Private",
+      "website": "https://www.newmanboston.org/",
+      "wikidata": "Q7753886"
+    }
+  },
+  {
+    "name": "MATCH Charter Public High School",
+    "address": "1001, Commonwealth Avenue, Boston, 02215",
+    "phone": "+1 617 232 0300",
+    "lat": 42.3521128,
+    "lon": -71.1209974,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "1001",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "9,10,11,12",
+      "massgis:school_id": "04690505",
+      "name": "MATCH Charter Public High School",
+      "phone": "+1 617 232 0300",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Charter"
+    }
+  },
+  {
+    "name": "Advent School",
+    "address": "17, Brimmer Street, Boston, 02108",
+    "phone": "+1 617 742 0520",
+    "lat": 42.3582148,
+    "lon": -71.0719535,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "17",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "Brimmer Street",
+      "alt_name": "Advent",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "K,1,2,3,4,5,6",
+      "massgis:school_id": "00350702",
+      "name": "Advent School",
+      "phone": "+1 617 742 0520",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "Private"
+    }
+  },
+  {
+    "name": "Park Street School",
+    "address": "67, Brimmer Street, Boston, 02108",
+    "phone": "+1 617 523 7577",
+    "lat": 42.3563955,
+    "lon": -71.0717155,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "67",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "Brimmer Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "K,1,2,3,4",
+      "massgis:school_id": "00350805",
+      "name": "Park Street School",
+      "phone": "+1 617 523 7577",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "Private",
+      "website": "https://www.parkstreetschool.org/"
+    }
+  },
+  {
+    "name": "Bay Cove Academy",
+    "address": "156, Lawton Street, Brookline, 02446",
+    "phone": "+1 617 739 1794",
+    "lat": 42.3499083,
+    "lon": -71.126739,
+    "tags": {
+      "addr:city": "Brookline",
+      "addr:housenumber": "156",
+      "addr:postcode": "02446",
+      "addr:state": "MA",
+      "addr:street": "Lawton Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "ele": "12",
+      "gnis:feature_id": "2341938",
+      "grades": "8,9,10,11,12",
+      "massgis:school_id": "00460850",
+      "name": "Bay Cove Academy",
+      "phone": "+1 617 739 1794",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Approved Special Education"
+    }
+  },
+  {
+    "name": "Boston Trinity Academy",
+    "address": "1187, Beacon Street, Brookline, 02446",
+    "phone": "+1 617 975 0080",
+    "lat": 42.3434087,
+    "lon": -71.1148759,
+    "tags": {
+      "addr:city": "Brookline",
+      "addr:housenumber": "1187",
+      "addr:postcode": "02446",
+      "addr:state": "MA",
+      "addr:street": "Beacon Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "6,7,8,9,10",
+      "massgis:school_id": "00460865",
+      "name": "Boston Trinity Academy",
+      "phone": "+1 617 975 0080",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Private"
+    }
+  },
+  {
+    "name": "Castle School Inc",
+    "address": "298, Harvard Street, Cambridge, 02139",
+    "phone": "+1 617 354 5410",
+    "lat": 42.369517,
+    "lon": -71.1057346,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "298",
+      "addr:postcode": "02139",
+      "addr:street": "Harvard Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "SP",
+      "massgis:school_id": "00490811",
+      "name": "Castle School Inc",
+      "phone": "+1 617 354 5410",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Approved Special Education"
+    }
+  },
+  {
+    "name": "The Kingsley School",
+    "address": "30, Fairfield Street, Boston, 02116",
+    "phone": "+1-617-536-5984",
+    "lat": 42.3503117,
+    "lon": -71.0823043,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "30",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Fairfield Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "SP",
+      "massgis:school_id": "00350760",
+      "name": "The Kingsley School",
+      "phone": "+1-617-536-5984",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "private",
+      "website": "https://www.kingsley.org/"
+    }
+  },
+  {
+    "name": "Winter Hill School at Edgerly",
+    "address": "8, Bonair Street, Somerville, 02145",
+    "phone": "+1-617-625-6600",
+    "lat": 42.3874449,
+    "lon": -71.0876142,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "8",
+      "addr:postcode": "02145",
+      "addr:state": "MA",
+      "addr:street": "Bonair Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "PK,K,1,2,3,4,5,6,7,8",
+      "massgis:school_id": "02740510",
+      "name": "Winter Hill School at Edgerly",
+      "phone": "+1-617-625-6600",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Public"
+    }
+  },
+  {
+    "name": "Cummings School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3852808,
+    "lon": -71.0992408,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "14",
+      "gnis:feature_id": "599118",
+      "name": "Cummings School"
+    }
+  },
+  {
+    "name": "Cambridge Junior College",
+    "address": "",
+    "phone": "",
+    "lat": 42.3853745,
+    "lon": -71.1239418,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "19",
+      "gnis:feature_id": "599125",
+      "name": "Cambridge Junior College"
+    }
+  },
+  {
+    "name": "Northeastern Junior High School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3906524,
+    "lon": -71.0950523,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "12",
+      "gnis:feature_id": "599127",
+      "name": "Northeastern Junior High School"
+    }
+  },
+  {
+    "name": "Saint Johns High School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3750992,
+    "lon": -71.1300529,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "1",
+      "gnis:feature_id": "603117",
+      "name": "Saint Johns High School"
+    }
+  },
+  {
+    "name": "Boston Childrens School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3653751,
+    "lon": -71.0675513,
+    "tags": {
+      "amenity": "school",
+      "ele": "6",
+      "gnis:feature_id": "1971007",
+      "name": "Boston Childrens School"
+    }
+  },
+  {
+    "name": "Boston University School of Law",
+    "address": "",
+    "phone": "",
+    "lat": 42.3511035,
+    "lon": -71.1072381,
+    "tags": {
+      "amenity": "school",
+      "ele": "5",
+      "gnis:feature_id": "1971028",
+      "name": "Boston University School of Law"
+    }
+  },
+  {
+    "name": "Harvard Divinity School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3800857,
+    "lon": -71.1130123,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "5",
+      "gnis:feature_id": "1971329",
+      "name": "Harvard Divinity School",
+      "operator": "Harvard University",
+      "wikidata": "Q1034225"
+    }
+  },
+  {
+    "name": "John F Kennedy School of Government",
+    "address": "",
+    "phone": "",
+    "lat": 42.3715439,
+    "lon": -71.122104,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "ele": "3",
+      "gnis:feature_id": "1971402",
+      "name": "John F Kennedy School of Government",
+      "was:gnis:feature_id": "600145",
+      "wikidata": "Q49127"
+    }
+  },
+  {
+    "name": "Longy School of Music of Bard College",
+    "address": "",
+    "phone": "",
+    "lat": 42.3784429,
+    "lon": -71.1233492,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "ele": "8",
+      "gnis:feature_id": "1971470",
+      "name": "Longy School of Music of Bard College",
+      "old_name": "Longy School of Music",
+      "website": "https://longy.edu/",
+      "wikidata": "Q6674563",
+      "wikipedia": "en:Longy School of Music of Bard College"
+    }
+  },
+  {
+    "name": "New England College of Optometry",
+    "address": "424, Beacon Street, Boston, 02116",
+    "phone": "+1-617-266-2030",
+    "lat": 42.3518544,
+    "lon": -71.0868076,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "424",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Beacon Street",
+      "amenity": "college",
+      "education": "college",
+      "email": "communications@neco.edu",
+      "fax": "+1-617-424-9202",
+      "gnis:feature_id": "1971577",
+      "name": "New England College of Optometry",
+      "phone": "+1-617-266-2030",
+      "religion": "none",
+      "start_date": "1894",
+      "website": "https://www.neco.edu/",
+      "wheelchair": "yes",
+      "wikidata": "Q14715762",
+      "wikipedia": "en:New England College of Optometry"
+    }
+  },
+  {
+    "name": "Old Cambridge Baptist Church School",
+    "address": "",
+    "phone": "",
+    "lat": 42.371748,
+    "lon": -71.1141841,
+    "tags": {
+      "amenity": "school",
+      "check_date": "2024-04-20",
+      "education": "school",
+      "ele": "10",
+      "gnis:feature_id": "1971614",
+      "name": "Old Cambridge Baptist Church School"
+    }
+  },
+  {
+    "name": "Saint Anthonys School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3825796,
+    "lon": -71.1044754,
+    "tags": {
+      "amenity": "school",
+      "check_date": "2025-06-16",
+      "education": "school",
+      "ele": "5",
+      "gnis:feature_id": "1971712",
+      "name": "Saint Anthonys School"
+    }
+  },
+  {
+    "name": "St. Paul’s Choir School",
+    "address": "29, Mount Auburn Street, Cambridge, 02138",
+    "phone": "+1 617 868 8658",
+    "lat": 42.3712797,
+    "lon": -71.1157169,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "29",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Mount Auburn Street",
+      "amenity": "school",
+      "check_date": "2025-09-07",
+      "contact:facebook": "https://www.facebook.com/SaintPaulsChoirSchool",
+      "contact:instagram": "https://www.instagram.com/saintpaulschoirschool",
+      "contact:linkedin": "https://www.linkedin.com/company/10464396/admin/",
+      "contact:youtube": "https://www.youtube.com/channel/UChnhQho8O7CPjPJajPyta1Q",
+      "denomination": "roman_catholic",
+      "education": "school",
+      "email": "office@saintpaulschoirschool.us",
+      "gnis:feature_id": "1971729",
+      "name": "St. Paul’s Choir School",
+      "operator:type": "religious",
+      "phone": "+1 617 868 8658",
+      "religion": "christian",
+      "website": "https://www.saintpaulschoirschool.us/",
+      "wikidata": "Q4947731"
+    }
+  },
+  {
+    "name": "School of Fashion Design",
+    "address": "136, Newbury Street, Boston, 02116",
+    "phone": "+1-617-536-9343",
+    "lat": 42.3509061,
+    "lon": -71.0768656,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "136",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Newbury Street",
+      "amenity": "school",
+      "charge": "13350 USD/year",
+      "craft": "handicraft",
+      "education": "school",
+      "ele": "4",
+      "email": "fashion@sfdboston.org",
+      "fee": "yes",
+      "gnis:feature_id": "1971738",
+      "name": "School of Fashion Design",
+      "phone": "+1-617-536-9343",
+      "religion": "none",
+      "website": "https://www.schooloffashiondesign.org/"
+    }
+  },
+  {
+    "name": "Boston Evening Academy HMCS School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3520682,
+    "lon": -71.1206751,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "14",
+      "gnis:feature_id": "2341993",
+      "name": "Boston Evening Academy HMCS School"
+    }
+  },
+  {
+    "name": "Metcalf Center for Science and Engineering",
+    "address": "",
+    "phone": "",
+    "lat": 42.3486129,
+    "lon": -71.100953,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "research_institute",
+      "department": "yes",
+      "ele": "5",
+      "gnis:feature_id": "1971543",
+      "name": "Metcalf Center for Science and Engineering",
+      "operator": "Boston University",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Eda Kuhn Loeb Music Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.376964,
+    "lon": -71.1170152,
+    "tags": {
+      "addr:state": "MA",
+      "alt_name": "Edna Kuhn Loeb Music Library",
+      "amenity": "library",
+      "ele": "7",
+      "gnis:feature_id": "1971201",
+      "name": "Eda Kuhn Loeb Music Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "McKay and Blue Hill Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3780016,
+    "lon": -71.1170381,
+    "tags": {
+      "amenity": "library",
+      "ele": "6",
+      "gnis:feature_id": "1971004",
+      "name": "McKay and Blue Hill Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Youville Hospital School of Practical Nursing Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3746771,
+    "lon": -71.1066974,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "4",
+      "gnis:feature_id": "1971883",
+      "name": "Youville Hospital School of Practical Nursing Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Tozzer Library",
+    "address": "",
+    "phone": "+1 617-495-2253",
+    "lat": 42.3785534,
+    "lon": -71.1148047,
+    "tags": {
+      "access": "permit",
+      "addr:state": "MA",
+      "amenity": "library",
+      "contact:email": "tozzerlibrary@fas.harvard.edu",
+      "contact:phone": "+1 617-495-2253",
+      "ele": "6",
+      "gnis:feature_id": "1971819",
+      "level": "0;1",
+      "name": "Tozzer Library",
+      "name:etymology": "Alfred Marston Tozzer",
+      "name:etymology:wikidata": "Q4723536",
+      "name:etymology:wikipedia": "en:Alfred Tozzer",
+      "source": "USGS Geonames",
+      "wheelchair": "yes",
+      "wikidata": "Q96419566",
+      "wikipedia": "en:Tozzer Library"
+    }
+  },
+  {
+    "name": "Frances Loeb Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3759405,
+    "lon": -71.1139182,
+    "tags": {
+      "access": "yes",
+      "addr:state": "MA",
+      "amenity": "library",
+      "gnis:feature_id": "1971260",
+      "level": "-1;0",
+      "name": "Frances Loeb Library",
+      "name:etymology": "Frances Lehman Loeb",
+      "opening_hours": "Mo-Th 09:00-22:00; Fr 09:00-19:00; Sa-Su 12:00-17:00",
+      "operator": "Harvard Graduate School of Design",
+      "source": "USGS Geonames",
+      "start_date": "1972",
+      "website": "https://www.gsd.harvard.edu/frances-loeb-library/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "name": "Cabot Science Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3761636,
+    "lon": -71.1163126,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "6",
+      "full_name": "Godfrey Lowell Cabot Science Library",
+      "gnis:feature_id": "1971285",
+      "name": "Cabot Science Library",
+      "short_name": "Cabot Library",
+      "source": "USGS Geonames",
+      "wikidata": "Q39087142",
+      "wikipedia": "en:Cabot Science Library"
+    }
+  },
+  {
+    "name": "Physics Research Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.377305,
+    "lon": -71.1172917,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "6",
+      "gnis:feature_id": "1971337",
+      "name": "Physics Research Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Harvard University Psychology Research Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3771216,
+    "lon": -71.1135784,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "6",
+      "gnis:feature_id": "1971338",
+      "name": "Harvard University Psychology Research Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Gutman Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3749185,
+    "lon": -71.1217096,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "check_date": "2024-03-06",
+      "ele": "7",
+      "gnis:feature_id": "1971309",
+      "name": "Gutman Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Harvard University Fine Arts Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3763632,
+    "lon": -71.1182075,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "8",
+      "gnis:feature_id": "1971330",
+      "name": "Harvard University Fine Arts Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Harvard Law School Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3779559,
+    "lon": -71.1185838,
+    "tags": {
+      "amenity": "library",
+      "ele": "7",
+      "gnis:feature_id": "1971333",
+      "name": "Harvard Law School Library",
+      "source": "USGS Geonames",
+      "wheelchair": "limited",
+      "wikidata": "Q18719675"
+    }
+  },
+  {
+    "name": "Kummel Library of Geological Sciences",
+    "address": "",
+    "phone": "",
+    "lat": 42.3782011,
+    "lon": -71.1147103,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "6",
+      "gnis:feature_id": "1971428",
+      "name": "Kummel Library of Geological Sciences",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Massachusetts Eye and Ear Infirmary Libraries",
+    "address": "",
+    "phone": "",
+    "lat": 42.362633,
+    "lon": -71.070327,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "3",
+      "gnis:feature_id": "1971504",
+      "name": "Massachusetts Eye and Ear Infirmary Libraries",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Harvard Kennedy School Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3711732,
+    "lon": -71.1216494,
+    "tags": {
+      "addr:state": "MA",
+      "alt_name": "John F Kennedy School of Government Library",
+      "amenity": "library",
+      "ele": "3",
+      "gnis:feature_id": "1971403",
+      "name": "Harvard Kennedy School Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Palmer-Davis Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3631529,
+    "lon": -71.0694958,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "5",
+      "gnis:feature_id": "1971632",
+      "name": "Palmer-Davis Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Pusey Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3736275,
+    "lon": -71.1158822,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "check_date:opening_hours": "2025-07-22",
+      "gnis:feature_id": "1971669",
+      "location": "underground",
+      "name": "Pusey Library",
+      "opening_hours:signed": "no",
+      "source": "USGS Geonames",
+      "start_date": "1973",
+      "wikidata": "Q110654670",
+      "wikipedia": "en:Pusey Library"
+    }
+  },
+  {
+    "name": "Carr Health Sciences Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3850968,
+    "lon": -71.1064413,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "19",
+      "gnis:feature_id": "1972240",
+      "name": "Carr Health Sciences Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "East Somerville Branch Public Library of the City of Somerville",
+    "address": "",
+    "phone": "",
+    "lat": 42.3879326,
+    "lon": -71.0835948,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "9",
+      "gnis:feature_id": "1972505",
+      "name": "East Somerville Branch Public Library of the City of Somerville",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Boston University School of Theology Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3505,
+    "lon": -71.1072,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "check_date": "2025-06-02",
+      "ele": "5",
+      "gnis:feature_id": "2342005",
+      "name": "Boston University School of Theology Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "William Howard Taft Middle School Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.352203,
+    "lon": -71.1206362,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "14",
+      "gnis:feature_id": "2345040",
+      "name": "William Howard Taft Middle School Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "The Mary Baker Eddy Library for the Betterment of Humanity",
+    "address": "",
+    "phone": "+1-617-450-7000",
+    "lat": 42.3451224,
+    "lon": -71.0862018,
+    "tags": {
+      "access": "yes",
+      "addr:state": "MA",
+      "amenity": "library",
+      "check_date": "2025-07-26",
+      "contact:facebook": "https://www.facebook.com/mbelibrary",
+      "contact:instagram": "https://www.instagram.com/mbelibrary/",
+      "contact:twitter": "https://twitter.com/MBELibrary",
+      "ele": "4",
+      "email": "librarymail@mbelibrary.org",
+      "gnis:feature_id": "2344903",
+      "internet_access": "yes",
+      "name": "The Mary Baker Eddy Library for the Betterment of Humanity",
+      "phone": "+1-617-450-7000",
+      "source": "USGS Geonames",
+      "website": "https://www.marybakereddylibrary.org/",
+      "wikidata": "Q6778995",
+      "wikipedia": "en:Mary Baker Eddy Library"
+    }
+  },
+  {
+    "name": "Harvard University Museum of Comparative Zoology Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3785878,
+    "lon": -71.1155943,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "library",
+      "ele": "6",
+      "gnis:feature_id": "1971335",
+      "name": "Harvard University Museum of Comparative Zoology Library",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "Eliot House Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3700745,
+    "lon": -71.1219298,
+    "tags": {
+      "amenity": "library",
+      "building": "yes",
+      "created_by": "Potlatch 0.10f",
+      "name": "Eliot House Library"
+    }
+  },
+  {
+    "name": "Tree House Academy",
+    "address": "",
+    "phone": "",
+    "lat": 42.3782809,
+    "lon": -71.1072055,
+    "tags": {
+      "amenity": "kindergarten",
+      "check_date": "2025-11-22",
+      "education": "kindergarten",
+      "name": "Tree House Academy"
+    }
+  },
+  {
+    "name": "School of Law Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3509676,
+    "lon": -71.1072949,
+    "tags": {
+      "amenity": "library",
+      "check_date": "2025-06-09",
+      "name": "School of Law Library"
+    }
+  },
+  {
+    "name": "Pickering Educational Resources Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3496876,
+    "lon": -71.1006718,
+    "tags": {
+      "amenity": "library",
+      "designation": "Study Spot",
+      "name": "Pickering Educational Resources Library",
+      "source": "Kelsey Lynne Anderson"
+    }
+  },
+  {
+    "name": "Frederick S Pardee Management Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3496167,
+    "lon": -71.0996764,
+    "tags": {
+      "amenity": "library",
+      "name": "Frederick S Pardee Management Library"
+    }
+  },
+  {
+    "name": "Barker Library",
+    "address": "Cambridge",
+    "phone": "",
+    "lat": 42.3597611,
+    "lon": -71.0920607,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:state": "MA",
+      "amenity": "library",
+      "name": "Barker Library",
+      "name:en": "Barker Library",
+      "official_name": "James M. Barker Engineering Library"
+    }
+  },
+  {
+    "name": "Rotch Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.359247,
+    "lon": -71.0933124,
+    "tags": {
+      "amenity": "library",
+      "check_date": "2025-07-07",
+      "name": "Rotch Library"
+    }
+  },
+  {
+    "name": "Dewey Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3611465,
+    "lon": -71.0837124,
+    "tags": {
+      "amenity": "library",
+      "name": "Dewey Library",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "Harvard Law School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3791064,
+    "lon": -71.1196785,
+    "tags": {
+      "amenity": "university",
+      "check_date": "2025-07-13",
+      "education": "university",
+      "name": "Harvard Law School"
+    }
+  },
+  {
+    "name": "Mass Ave Music",
+    "address": "487, Somerville Avenue, Somerville, 02143",
+    "phone": "+1-617-764-4143",
+    "lat": 42.3829313,
+    "lon": -71.1044559,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "487",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Somerville Avenue",
+      "amenity": "school",
+      "check_date": "2025-06-16",
+      "education": "school",
+      "name": "Mass Ave Music",
+      "phone": "+1-617-764-4143",
+      "website": "http://www.massavemusic.com/"
+    }
+  },
+  {
+    "name": "Subcentral",
+    "address": "645, Massachusetts Avenue, Cambridge, 02139",
+    "phone": "",
+    "lat": 42.3655318,
+    "lon": -71.1035902,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "645",
+      "addr:postcode": "02139",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "music_school",
+      "name": "Subcentral"
+    }
+  },
+  {
+    "name": "New England School of Language",
+    "address": "",
+    "phone": "",
+    "lat": 42.3725026,
+    "lon": -71.1195257,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "New England School of Language"
+    }
+  },
+  {
+    "name": "Cambridge Center for Adult Education",
+    "address": "",
+    "phone": "",
+    "lat": 42.3736527,
+    "lon": -71.121688,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Cambridge Center for Adult Education",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "Hayden Memorial Library",
+    "address": "Cambridge",
+    "phone": "",
+    "lat": 42.3590395,
+    "lon": -71.0894857,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:state": "MA",
+      "amenity": "library",
+      "name": "Hayden Memorial Library",
+      "operator": "Massachusetts Institute of Technology"
+    }
+  },
+  {
+    "name": "Lewis Music Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.359411,
+    "lon": -71.0891117,
+    "tags": {
+      "amenity": "library",
+      "check_date": "2023-10-28",
+      "name": "Lewis Music Library"
+    }
+  },
+  {
+    "name": "Our Future Learning Center",
+    "address": "14-20, Linden Street",
+    "phone": "",
+    "lat": 42.3554923,
+    "lon": -71.1306195,
+    "tags": {
+      "addr:housenumber": "14-20",
+      "addr:street": "Linden Street",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Our Future Learning Center",
+      "website": "https://www.ourfuturelearning.com/"
+    }
+  },
+  {
+    "name": "Norman B. Leventhal Map Center",
+    "address": "700, Boylston Street, Boston, 02176",
+    "phone": "",
+    "lat": 42.3494397,
+    "lon": -71.0781642,
+    "tags": {
+      "access": "yes",
+      "addr:city": "Boston",
+      "addr:housenumber": "700",
+      "addr:postcode": "02176",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "amenity": "library",
+      "email": "info@leventhalmap.org",
+      "level": "1",
+      "name": "Norman B. Leventhal Map Center",
+      "not:name": "BPL Map Room",
+      "opening_hours": "Tu 11:00-17:00; We 13:00-19:00; Th-Sa 11:00-17:00; Su 13:00-17:00; PH off",
+      "website": "https://leventhalmap.org",
+      "wikidata": "Q7051939"
+    }
+  },
+  {
+    "name": "The Learning Center",
+    "address": "657, Cambridge Street",
+    "phone": "",
+    "lat": 42.3720865,
+    "lon": -71.0872453,
+    "tags": {
+      "addr:housenumber": "657",
+      "addr:street": "Cambridge Street",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "The Learning Center"
+    }
+  },
+  {
+    "name": "Berklee College of Music - Piano Percussion",
+    "address": "171, Massachusetts Avenue, Boston, 02215",
+    "phone": "",
+    "lat": 42.3459766,
+    "lon": -71.0873104,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "171",
+      "addr:postcode": "02215",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "college",
+      "building": "yes",
+      "education": "college",
+      "name": "Berklee College of Music - Piano Percussion"
+    }
+  },
+  {
+    "name": "Berklee College of Music",
+    "address": "186, Massachusetts Avenue, 02215",
+    "phone": "",
+    "lat": 42.3457128,
+    "lon": -71.0867654,
+    "tags": {
+      "addr:housenumber": "186",
+      "addr:postcode": "02215",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "college",
+      "education": "college",
+      "name": "Berklee College of Music"
+    }
+  },
+  {
+    "name": "Friendship Auto School",
+    "address": "235, Highland Avenue, Somerville, 02143",
+    "phone": "+1-617-776-5911",
+    "lat": 42.3908197,
+    "lon": -71.1091041,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "235",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Highland Avenue",
+      "amenity": "driving_school",
+      "education": "driving_school",
+      "email": "info@friendshipautoschool.net",
+      "name": "Friendship Auto School",
+      "phone": "+1-617-776-5911",
+      "website": "https://friendshipautoschool.net/"
+    }
+  },
+  {
+    "name": "International Driving School",
+    "address": "Highland Avenue",
+    "phone": "+1 617 666 2566",
+    "lat": 42.3884539,
+    "lon": -71.1031544,
+    "tags": {
+      "addr:street": "Highland Avenue",
+      "amenity": "driving_school",
+      "education": "driving_school",
+      "name": "International Driving School",
+      "phone": "+1 617 666 2566"
+    }
+  },
+  {
+    "name": "Bright Horizons",
+    "address": "129, Franklin Street, Cambridge, 02139",
+    "phone": "+16175752656",
+    "lat": 42.3628087,
+    "lon": -71.1018743,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "129",
+      "addr:postcode": "02139",
+      "addr:state": "MA",
+      "addr:street": "Franklin Street",
+      "amenity": "kindergarten",
+      "brand": "Bright Horizons",
+      "brand:wikidata": "Q4967421",
+      "fee": "yes",
+      "isced:level": "0",
+      "name": "Bright Horizons",
+      "nursery": "yes",
+      "operator": "Bright Horizons",
+      "phone": "+16175752656",
+      "preschool": "yes"
+    }
+  },
+  {
+    "name": "Kingsley Montessori School",
+    "address": "26, Exeter Street, Boston, 02116",
+    "phone": "+1-617-226-4900",
+    "lat": 42.3505808,
+    "lon": -71.0798233,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "26",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Exeter Street",
+      "amenity": "school",
+      "education": "school",
+      "email": "admissions@kingsley.org",
+      "name": "Kingsley Montessori School",
+      "phone": "+1-617-226-4900",
+      "website": "https://www.kingsley.org/"
+    }
+  },
+  {
+    "name": "Forsyth Institute",
+    "address": "",
+    "phone": "",
+    "lat": 42.3636113,
+    "lon": -71.0788471,
+    "tags": {
+      "amenity": "research_institute",
+      "check_date": "2024-05-17",
+      "name": "Forsyth Institute"
+    }
+  },
+  {
+    "name": "New England College of Optometry Library",
+    "address": "",
+    "phone": "+1-617-587-5589",
+    "lat": 42.351948,
+    "lon": -71.0868521,
+    "tags": {
+      "access": "private",
+      "amenity": "library",
+      "email": "library@neco.edu",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "name": "New England College of Optometry Library",
+      "phone": "+1-617-587-5589",
+      "website": "https://library.neco.edu/"
+    }
+  },
+  {
+    "name": "Moriarty Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3864275,
+    "lon": -71.1185743,
+    "tags": {
+      "amenity": "library",
+      "name": "Moriarty Library",
+      "operator": "Lesley University"
+    }
+  },
+  {
+    "name": "Goethe-Institut",
+    "address": "170, Beacon Street, Boston, 02116",
+    "phone": "+1-617-610-9398",
+    "lat": 42.3546324,
+    "lon": -71.0764676,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "170",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Beacon Street",
+      "amenity": "language_school",
+      "contact:instagram": "https://www.instagram.com/goethe_boston/",
+      "education": "language_school",
+      "email": "info-boston@goethe.de",
+      "language:de": "yes",
+      "language:en": "yes",
+      "name": "Goethe-Institut",
+      "operator": "Federal Republic of Germany",
+      "operator:type": "government",
+      "phone": "+1-617-610-9398",
+      "website": "https://www.goethe.de/ins/us/en/sta/bos.html",
+      "wikidata": "Q157033",
+      "wikipedia": "en:Goethe-Institut"
+    }
+  },
+  {
+    "name": "Bright Horizons",
+    "address": "185, Dartmouth Street, Boston, 02116",
+    "phone": "+1-617-603-2570",
+    "lat": 42.3487006,
+    "lon": -71.0755899,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "185",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Dartmouth Street",
+      "amenity": "kindergarten",
+      "brand": "Bright Horizons",
+      "brand:wikidata": "Q4967421",
+      "email": "dartmouthstreet@brighthorizons.com",
+      "fee": "yes",
+      "isced:level": "0",
+      "name": "Bright Horizons",
+      "nursery": "yes",
+      "opening_hours": "Mo-Fr 08:00-18:00",
+      "operator": "Bright Horizons Family Solutions LLC",
+      "operator:type": "private",
+      "phone": "+1-617-603-2570",
+      "preschool": "yes",
+      "website": "https://backupcenters.brighthorizons.com/MA/Boston/dartmouthstreet/"
+    }
+  },
+  {
+    "name": "Psychiatry Neuroimaging Laboratory",
+    "address": "1249, Boylston Street, Boston, 02215",
+    "phone": "+1-617-525-6105",
+    "lat": 42.3453776,
+    "lon": -71.0960977,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "1249",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "amenity": "research_institute",
+      "contact:facebook": "https://www.facebook.com/PNL.bwh.harvard.edu",
+      "contact:github": "https://github.com/pnlbwh",
+      "contact:twitter": "https://twitter.com/PNL_BWH_Harvard",
+      "fax": "+1-617-525-6150",
+      "healthcare": "laboratory",
+      "healthcare:speciality": "psychiatry;adhd;ptsd;aging;schizophrenia;brain_injury;trauma",
+      "level": "2",
+      "name": "Psychiatry Neuroimaging Laboratory",
+      "operator": "Harvard Medical School;Brigham and Women's Hospital",
+      "operator:type": "private",
+      "phone": "+1-617-525-6105",
+      "start_date": "2005",
+      "website": "https://pnl.bwh.harvard.edu/",
+      "wikidata": "Q49121",
+      "wikipedia": "en:Harvard Medical School"
+    }
+  },
+  {
+    "name": "Cambridge Preschool of the Arts",
+    "address": "8, Museum Way, Cambridge, 02141",
+    "phone": "+1-617-547-9189",
+    "lat": 42.3697186,
+    "lon": -71.0718107,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "8",
+      "addr:postcode": "02141",
+      "addr:state": "MA",
+      "addr:street": "Museum Way",
+      "amenity": "kindergarten",
+      "contact:instagram": "https://www.instagram.com/cambridgepota/",
+      "education": "kindergarten",
+      "email": "office@cambridgepreschool.org",
+      "max_age": "6",
+      "min_age": "0.5",
+      "name": "Cambridge Preschool of the Arts",
+      "phone": "+1-617-547-9189",
+      "preschool": "yes",
+      "website": "https://www.cambridgepreschool.org/eastcambridge"
+    }
+  },
+  {
+    "name": "Page Music Lessons",
+    "address": "334, Newbury Street, Boston, 02115",
+    "phone": "+1-617-267-7243",
+    "lat": 42.3482785,
+    "lon": -71.0864825,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "334",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Newbury Street",
+      "addr:unit": "2nd Floor",
+      "amenity": "music_school",
+      "contact:facebook": "https://www.facebook.com/PageMusicLessons",
+      "contact:instagram": "https://www.instagram.com/pagemusiclessons/",
+      "contact:twitter": "https://twitter.com/pagemusicboston",
+      "contact:youtube": "https://www.youtube.com/user/PageMusicLessons",
+      "education": "music_school",
+      "email": "info@pagemusiclessons.com",
+      "level": "1",
+      "name": "Page Music Lessons",
+      "phone": "+1-617-267-7243",
+      "start_date": "2002",
+      "website": "https://pagemusiclessons.com/"
+    }
+  },
+  {
+    "name": "BU Center for Antiracist Research",
+    "address": "745, Commonwealth Avenue, Boston, 02215",
+    "phone": "",
+    "lat": 42.3504997,
+    "lon": -71.107441,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "745",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "research_institute",
+      "contact:instagram": "https://www.instagram.com/antiracismctr/",
+      "contact:twitter": "https://twitter.com/antiracismctr",
+      "name": "BU Center for Antiracist Research",
+      "operator": "Boston University",
+      "operator:type": "private",
+      "start_date": "2020-07-01",
+      "subject:wikidata": "Q31213305",
+      "subject:wikimedia_commons": "File:Ibram_X._Kendi_2021.jpg",
+      "subject:wikipedia": "en:Ibram X. Kendi",
+      "university": "research",
+      "website": "https://www.bu.edu/antiracism-center/"
+    }
+  },
+  {
+    "name": "Harvard Musical Association",
+    "address": "57A, Chestnut Street, Boston, 02108",
+    "phone": "+1-617-523-2897",
+    "lat": 42.3572176,
+    "lon": -71.0694294,
+    "tags": {
+      "access": "private",
+      "addr:city": "Boston",
+      "addr:housenumber": "57A",
+      "addr:postcode": "02108",
+      "addr:state": "MA",
+      "addr:street": "Chestnut Street",
+      "amenity": "library",
+      "books": "music",
+      "email": "info@hmaboston.org",
+      "level": "0",
+      "name": "Harvard Musical Association",
+      "office": "charity",
+      "phone": "+1-617-523-2897",
+      "start_date": "1892",
+      "website": "https://hmaboston.org/"
+    }
+  },
+  {
+    "name": "O'Connell Branch Library",
+    "address": "48, Sixth Street, Cambridge, 02141",
+    "phone": "",
+    "lat": 42.3704407,
+    "lon": -71.0848233,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "48",
+      "addr:postcode": "02141",
+      "addr:street": "Sixth Street",
+      "amenity": "library",
+      "check_date:opening_hours": "2025-02-17",
+      "name": "O'Connell Branch Library",
+      "opening_hours": "Mo,Fr 10:00-18:00; Tu-Th 10:00-20:00",
+      "website": "http://www.cambridgepubliclibrary.org",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "Valente Branch Library",
+    "address": "826, Cambridge Street, Cambridge, 02141",
+    "phone": "",
+    "lat": 42.3721548,
+    "lon": -71.0902467,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "826",
+      "addr:postcode": "02141",
+      "addr:street": "Cambridge Street",
+      "amenity": "library",
+      "name": "Valente Branch Library",
+      "opening_hours": "Mo-We 10:00-20:00; Th,Fr 10:00-18:00; Sa 13:00-17:00",
+      "website": "http://www.cambridgepubliclibrary.org"
+    }
+  },
+  {
+    "name": "Andover-Harvard Theological Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3796006,
+    "lon": -71.1133173,
+    "tags": {
+      "amenity": "library",
+      "name": "Andover-Harvard Theological Library"
+    }
+  },
+  {
+    "name": "Center of Mathematical Sciences and Applications",
+    "address": "",
+    "phone": "",
+    "lat": 42.3776972,
+    "lon": -71.1233706,
+    "tags": {
+      "amenity": "research_insitute",
+      "name": "Center of Mathematical Sciences and Applications",
+      "office": "research",
+      "research": "mathematics",
+      "website": "https://cmsa.fas.harvard.edu/"
+    }
+  },
+  {
+    "name": "Black Hole Initiative",
+    "address": "",
+    "phone": "",
+    "lat": 42.3777267,
+    "lon": -71.123398,
+    "tags": {
+      "amenity": "research_insitute",
+      "name": "Black Hole Initiative",
+      "office": "research",
+      "research": "mathematics",
+      "website": "https://bhi.fas.harvard.edu/",
+      "wikidata": "Q48841064",
+      "wikipedia": "en:Black Hole Initiative"
+    }
+  },
+  {
+    "name": "ASC English",
+    "address": "1106A, Commonwealth Avenue",
+    "phone": "",
+    "lat": 42.3516034,
+    "lon": -71.1246986,
+    "tags": {
+      "addr:housenumber": "1106A",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "language_school",
+      "education": "language_school",
+      "language:en": "main",
+      "name": "ASC English",
+      "website": "https://www.ascenglish.com/"
+    }
+  },
+  {
+    "name": "BU Metropolitan College",
+    "address": "",
+    "phone": "",
+    "lat": 42.351288,
+    "lon": -71.1211898,
+    "tags": {
+      "amenity": "school",
+      "check_date": "2024-10-04",
+      "education": "school",
+      "name": "BU Metropolitan College"
+    }
+  },
+  {
+    "name": "Harvard Graduate School of Education",
+    "address": "13, Appian Way, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3753953,
+    "lon": -71.1218908,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "13",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Appian Way",
+      "amenity": "university",
+      "education": "university",
+      "name": "Harvard Graduate School of Education",
+      "operator": "Harvard University",
+      "operator:type": "private_non_profit",
+      "wikidata": "Q14715517",
+      "wikipedia": "en:Harvard Graduate School of Education"
+    }
+  },
+  {
+    "name": "Approach International Student Center",
+    "address": "196, Harvard Avenue, Allston, 02134",
+    "phone": "",
+    "lat": 42.3507633,
+    "lon": -71.1310485,
+    "tags": {
+      "addr:city": "Allston",
+      "addr:housenumber": "196",
+      "addr:postcode": "02134",
+      "addr:state": "MA",
+      "addr:street": "Harvard Avenue",
+      "addr:unit": "2",
+      "amenity": "language_school",
+      "education": "language_school",
+      "language:en": "main",
+      "name": "Approach International Student Center",
+      "website": "https://approachusa.org/"
+    }
+  },
+  {
+    "name": "Saint Herman of Alaska Christian School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3541827,
+    "lon": -71.1319811,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "grades": "K-8",
+      "name": "Saint Herman of Alaska Christian School",
+      "religion": "christian",
+      "website": "https://sainthermanschool.org/"
+    }
+  },
+  {
+    "name": "Boston Drum Lessons",
+    "address": "138, Harvard Avenue, Allston, 02134",
+    "phone": "",
+    "lat": 42.3521774,
+    "lon": -71.1313496,
+    "tags": {
+      "addr:city": "Allston",
+      "addr:housenumber": "138",
+      "addr:postcode": "02134",
+      "addr:state": "MA",
+      "addr:street": "Harvard Avenue",
+      "addr:unit": "516",
+      "amenity": "music_school",
+      "education": "music_school",
+      "name": "Boston Drum Lessons",
+      "website": "https://www.bostondrumlessons.com/"
+    }
+  },
+  {
+    "name": "Computer Systems Institute",
+    "address": "1105, Commonwealth Avenue",
+    "phone": "",
+    "lat": 42.3518984,
+    "lon": -71.1254782,
+    "tags": {
+      "addr:housenumber": "1105",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "college",
+      "education": "college",
+      "name": "Computer Systems Institute",
+      "website": "https://www.csinow.edu/"
+    }
+  },
+  {
+    "name": "ESL Academy",
+    "address": "1105, Commonwealth Avenue",
+    "phone": "",
+    "lat": 42.3519148,
+    "lon": -71.1255024,
+    "tags": {
+      "addr:housenumber": "1105",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "language_school",
+      "education": "language_school",
+      "language:en": "main",
+      "name": "ESL Academy",
+      "website": "https://www.eslacademy.edu/"
+    }
+  },
+  {
+    "name": "Boston Islamic Seminary",
+    "address": "",
+    "phone": "",
+    "lat": 42.3517542,
+    "lon": -71.1344093,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Boston Islamic Seminary",
+      "religion": "muslim",
+      "website": "https://www.bostonislamicseminary.org/"
+    }
+  },
+  {
+    "name": "ABCD Head Start & Children's Services",
+    "address": "",
+    "phone": "",
+    "lat": 42.3518176,
+    "lon": -71.1344435,
+    "tags": {
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "ABCD Head Start & Children's Services",
+      "preschool": "yes",
+      "website": "https://bostonabcd.org/service/head-start-childrens-services/"
+    }
+  },
+  {
+    "name": "Barlow Voice Studios",
+    "address": "",
+    "phone": "",
+    "lat": 42.3553818,
+    "lon": -71.1350244,
+    "tags": {
+      "addr:unit": "212",
+      "amenity": "music_school",
+      "education": "music_school",
+      "name": "Barlow Voice Studios",
+      "website": "https://www.brentrocks.com/"
+    }
+  },
+  {
+    "name": "International School of Advanced Learning",
+    "address": "",
+    "phone": "",
+    "lat": 42.3554648,
+    "lon": -71.1306026,
+    "tags": {
+      "amenity": "language_school",
+      "education": "language_school",
+      "language:en": "main",
+      "name": "International School of Advanced Learning",
+      "short_name": "ISAL",
+      "website": "https://isalusa.com/"
+    }
+  },
+  {
+    "name": "Paul F. Glenn Center for Biology of Aging Research",
+    "address": "77, Avenue Louis Pasteur, Boston",
+    "phone": "",
+    "lat": 42.3387705,
+    "lon": -71.1027833,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:floor": "9",
+      "addr:housename": "New Research Building",
+      "addr:housenumber": "77",
+      "addr:street": "Avenue Louis Pasteur",
+      "addr:unit": "Department of Genetics",
+      "amenity": "research_institute",
+      "name": "Paul F. Glenn Center for Biology of Aging Research",
+      "operator": "Department of Genetics",
+      "website": "https://www.hms.harvard.edu/agingresearch/index.php"
+    }
+  },
+  {
+    "name": "MIT Library Storage Annex",
+    "address": "1, State Street",
+    "phone": "",
+    "lat": 42.3627738,
+    "lon": -71.0988449,
+    "tags": {
+      "access": "permit",
+      "addr:housenumber": "1",
+      "addr:street": "State Street",
+      "amenity": "library",
+      "name": "MIT Library Storage Annex",
+      "opening_hours": "Mo-Fr 09:00-17:00",
+      "operator": "Massachusetts Institute of Technology",
+      "operator:type": "university"
+    }
+  },
+  {
+    "name": "Cambridge Piano Lessons",
+    "address": "1000, Cambridge Street, Cambridge, 02141",
+    "phone": "",
+    "lat": 42.3726833,
+    "lon": -71.093614,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "1000",
+      "addr:postcode": "02141",
+      "addr:state": "MA",
+      "addr:street": "Cambridge Street",
+      "addr:unit": "1B",
+      "amenity": "music_school",
+      "education": "music_school",
+      "name": "Cambridge Piano Lessons"
+    }
+  },
+  {
+    "name": "Radcliffe Institute for Advanced Studies",
+    "address": "",
+    "phone": "",
+    "lat": 42.3761587,
+    "lon": -71.1223168,
+    "tags": {
+      "addr:state": "MA",
+      "amenity": "university",
+      "check_date": "2025-06-26",
+      "education": "university",
+      "ele": "8",
+      "gnis:feature_id": "599110;1971676",
+      "name": "Radcliffe Institute for Advanced Studies",
+      "source": "USGS Geonames",
+      "wikidata": "Q7280030"
+    }
+  },
+  {
+    "name": "Everbrook Academy",
+    "address": "302, Harvard Street",
+    "phone": "",
+    "lat": 42.3429633,
+    "lon": -71.1228251,
+    "tags": {
+      "addr:housenumber": "302",
+      "addr:street": "Harvard Street",
+      "addr:unit": "A",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Everbrook Academy"
+    }
+  },
+  {
+    "name": "Farr Academy",
+    "address": "71, Pearl Street, Cambridge, 02139",
+    "phone": "+16174924922",
+    "lat": 42.3630489,
+    "lon": -71.1045438,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "71",
+      "addr:postcode": "02139",
+      "addr:state": "MA",
+      "addr:street": "Pearl Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "description": "Farr Academy is a therapeutic day school serving students in grades 7 through 12 with a range of emotional and learning problems.",
+      "ele": "5",
+      "gnis:feature_id": "1971228",
+      "isced:level": "2;3",
+      "massgis:school_id": "00490815",
+      "name": "Farr Academy",
+      "phone": "+16174924922",
+      "website": "https://www.farracademy.org/"
+    }
+  },
+  {
+    "name": "Boston University Stone Science Library",
+    "address": "",
+    "phone": "",
+    "lat": 42.3502338,
+    "lon": -71.1038043,
+    "tags": {
+      "amenity": "library",
+      "name": "Boston University Stone Science Library"
+    }
+  },
+  {
+    "name": "Nuvu Studio",
+    "address": "",
+    "phone": "",
+    "lat": 42.3635005,
+    "lon": -71.1012479,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Nuvu Studio"
+    }
+  },
+  {
+    "name": "Northeastern University Annex Office",
+    "address": "216, Massachusetts Avenue, 02115",
+    "phone": "",
+    "lat": 42.3449422,
+    "lon": -71.085421,
+    "tags": {
+      "addr:housenumber": "216",
+      "addr:postcode": "02115",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "university",
+      "education": "university",
+      "name": "Northeastern University Annex Office"
+    }
+  },
+  {
+    "name": "Pardee School of Global Studies",
+    "address": "121, Bay State Road, Boston, 02215",
+    "phone": "",
+    "lat": 42.3503955,
+    "lon": -71.0989146,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "121",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Bay State Road",
+      "amenity": "school",
+      "name": "Pardee School of Global Studies",
+      "operator": "Boston University",
+      "operator:type": "university"
+    }
+  },
+  {
+    "name": "Boston Architectural College LIbrary",
+    "address": "320, Newbury Street, Boston, 02115",
+    "phone": "",
+    "lat": 42.348552,
+    "lon": -71.0857907,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "320",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Newbury Street",
+      "amenity": "library",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "Boston Architectural College LIbrary",
+      "opening_hours": "Mo-Su 10:00-22:00"
+    }
+  },
+  {
+    "name": "Kingsley Montessori School",
+    "address": "26, Exeter Street, Boston, 02116",
+    "phone": "",
+    "lat": 42.3506768,
+    "lon": -71.0794606,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "26",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Exeter Street",
+      "amenity": "school",
+      "denomination": "catholic",
+      "education": "school",
+      "grades": "1-6",
+      "name": "Kingsley Montessori School",
+      "religion": "christian"
+    }
+  },
+  {
+    "name": "The Engine",
+    "address": "750 Main Street Cambridge, MA 02139",
+    "phone": "",
+    "lat": 42.3629069,
+    "lon": -71.0962084,
+    "tags": {
+      "addr:street": "750 Main Street Cambridge, MA 02139",
+      "amenity": "research_institute",
+      "name": "The Engine",
+      "website": "https://engine.xyz/"
+    }
+  },
+  {
+    "name": "The Mary Baker Eddy Library For The Betterment Of Mankind",
+    "address": "",
+    "phone": "",
+    "lat": 42.3452229,
+    "lon": -71.0863665,
+    "tags": {
+      "amenity": "library",
+      "check_date": "2025-07-26",
+      "name": "The Mary Baker Eddy Library For The Betterment Of Mankind"
+    }
+  },
+  {
+    "name": "Cambridge Rindge and Latin School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3748733,
+    "lon": -71.1106161,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Cambridge Rindge and Latin School"
+    }
+  },
+  {
+    "name": "The Tango Society of Boston",
+    "address": "16, Bow Street, Somerville, 02143",
+    "phone": "",
+    "lat": 42.3807032,
+    "lon": -71.097214,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:floor": "2",
+      "addr:housenumber": "16",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Bow Street",
+      "amenity": "dancing_school",
+      "dance:style": "tango",
+      "education": "dancing_school",
+      "name": "The Tango Society of Boston",
+      "website": "https://www.bostontango.org/"
+    }
+  },
+  {
+    "name": "Rola Languages",
+    "address": "",
+    "phone": "",
+    "lat": 42.3861275,
+    "lon": -71.1195064,
+    "tags": {
+      "amenity": "language_school",
+      "education": "language_school",
+      "name": "Rola Languages"
+    }
+  },
+  {
+    "name": "Panda Bilingual Child Care",
+    "address": "763, Cambridge Street",
+    "phone": "",
+    "lat": 42.3723852,
+    "lon": -71.0894158,
+    "tags": {
+      "addr:housenumber": "763",
+      "addr:street": "Cambridge Street",
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Panda Bilingual Child Care",
+      "website": "http://pandabilingualdaycare.com"
+    }
+  },
+  {
+    "name": "Wheelock College Library",
+    "address": "132, Riverway, Boston, 02215",
+    "phone": "",
+    "lat": 42.3431087,
+    "lon": -71.1046732,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "132",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Riverway",
+      "amenity": "library",
+      "building": "yes",
+      "ele": "9",
+      "gnis:feature_id": "2345024",
+      "name": "Wheelock College Library",
+      "operator": "Boston University",
+      "operator:type": "university",
+      "source": "USGS Geonames",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "website": "https://www.bu.edu/library/pickering-educational/"
+    }
+  },
+  {
+    "name": "Leverett House Library",
+    "address": "28, DeWolfe Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3693862,
+    "lon": -71.1168004,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "28",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "DeWolfe Street",
+      "amenity": "library",
+      "building": "yes",
+      "name": "Leverett House Library",
+      "operator:type": "university",
+      "website": "https://www.leverett.harvard.edu/room-facilities"
+    }
+  },
+  {
+    "name": "Summer Street Preschool",
+    "address": "184, Summer Street",
+    "phone": "+16176279355",
+    "lat": 42.3869563,
+    "lon": -71.1082583,
+    "tags": {
+      "addr:housenumber": "184",
+      "addr:street": "Summer Street",
+      "amenity": "kindergarten",
+      "building": "yes",
+      "education": "kindergarten",
+      "name": "Summer Street Preschool",
+      "phone": "+16176279355",
+      "preschool": "yes"
+    }
+  },
+  {
+    "name": "St. Catherine of Genoa School",
+    "address": "190;192, Summer Street",
+    "phone": "",
+    "lat": 42.3869555,
+    "lon": -71.1087639,
+    "tags": {
+      "addr:housenumber": "190;192",
+      "addr:street": "Summer Street",
+      "amenity": "school",
+      "building": "yes",
+      "check_date": "2024-03-27",
+      "education": "school",
+      "name": "St. Catherine of Genoa School"
+    }
+  },
+  {
+    "name": "Somerville High School",
+    "address": "81, Highland Avenue, Somerville, 02143",
+    "phone": "+1 617 625 6600",
+    "lat": 42.3867697,
+    "lon": -71.0956551,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "81",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Highland Avenue",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "building": "school",
+      "check_date": "2022-10-24",
+      "education": "school",
+      "ele": "14",
+      "gnis:feature_id": "599121",
+      "grades": "9,10,11,12",
+      "massgis:school_id": "02740505",
+      "name": "Somerville High School",
+      "phone": "+1 617 625 6600",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "Public",
+      "website": "https://somerville.k12.ma.us/schools/somerville-high-school",
+      "wikidata": "Q7559971"
+    }
+  },
+  {
+    "name": "The Advent School",
+    "address": "99, West Cedar Street, Boston, 02114",
+    "phone": "+1-617-742-0520",
+    "lat": 42.3608055,
+    "lon": -71.0698513,
+    "tags": {
+      "access": "private",
+      "addr:city": "Boston",
+      "addr:housenumber": "99",
+      "addr:postcode": "02114",
+      "addr:state": "MA",
+      "addr:street": "West Cedar Street",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "2",
+      "building:material": "brick",
+      "contact:facebook": "https://www.facebook.com/adventschool/",
+      "education": "school",
+      "email": "info@adventschool.org",
+      "fax": "+1-617-723-2207",
+      "grades": "0-6",
+      "name": "The Advent School",
+      "phone": "+1-617-742-0520",
+      "roof:colour": "grey",
+      "start_date": "1961",
+      "website": "https://adventschool.org/"
+    }
+  },
+  {
+    "name": "Cardinal Cushing Library",
+    "address": "400, Fenway, Boston, 02115",
+    "phone": "",
+    "lat": 42.3403756,
+    "lon": -71.1016487,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "400",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Fenway",
+      "amenity": "library",
+      "building": "yes",
+      "name": "Cardinal Cushing Library",
+      "operator": "Emmanuel College",
+      "operator:type": "college",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "website": "https://learningcommons.emmanuel.edu/library"
+    }
+  },
+  {
+    "name": "Our Lady of Grace Seminary",
+    "address": "2, Ipswich Street",
+    "phone": "",
+    "lat": 42.3473339,
+    "lon": -71.0897377,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Ipswich Street",
+      "amenity": "school",
+      "building": "yes",
+      "education": "school",
+      "ele": "4",
+      "gnis:feature_id": "1971623",
+      "name": "Our Lady of Grace Seminary"
+    }
+  },
+  {
+    "name": "Houghton Library",
+    "address": "29, Cambridge, 02138",
+    "phone": "+1 617-495-2440",
+    "lat": 42.3731931,
+    "lon": -71.1159416,
+    "tags": {
+      "access": "permit",
+      "addr:city": "Cambridge",
+      "addr:housenumber": "29",
+      "addr:place": "Harvard Yard",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "amenity": "library",
+      "architect": "Perry, Shaw & Hepburn",
+      "architect:wikidata": "Q7169766",
+      "architect:wikipedia": "en:Perry Dean Rogers Architects",
+      "building": "university",
+      "contact:email": "houghton_library@harvard.edu",
+      "contact:phone": "+1 617-495-2440",
+      "ele": "11",
+      "gnis:feature_id": "1971375",
+      "name": "Houghton Library",
+      "name:etymology": "Arthur Amory Houghton Jr.",
+      "name:etymology:wikidata": "Q21553668",
+      "name:etymology:wikipedia": "en:Arthur A. Houghton Jr.",
+      "operator": "Harvard University",
+      "operator:type": "university",
+      "source": "USGS Geonames",
+      "start_date": "1942",
+      "website": "https://library.harvard.edu/libraries/houghton",
+      "wikidata": "Q3719374",
+      "wikipedia": "en:Houghton Library"
+    }
+  },
+  {
+    "name": "Lamont Library",
+    "address": "11, Quincy Street, Cambridge, 02138",
+    "phone": "+1 617-495-2452",
+    "lat": 42.3727688,
+    "lon": -71.1154781,
+    "tags": {
+      "access": "permit",
+      "addr:city": "Cambridge",
+      "addr:housenumber": "11",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Quincy Street",
+      "amenity": "library",
+      "architect": "Coolidge, Shepley, Bulfinch, and Abbott",
+      "architect:wikidata": "Q17061092",
+      "architect:wikipedia": "en:Shepley Bulfinch",
+      "building": "university",
+      "check_date": "2025-09-07",
+      "contact:email": "lamcirc@fas.harvard.edu",
+      "contact:phone": "+1 617-495-2452",
+      "ele": "12",
+      "gnis:feature_id": "1971433",
+      "internet_access": "yes",
+      "name": "Lamont Library",
+      "name:etymology": "Thomas W. Lamont Jr.",
+      "name:etymology:wikidata": "Q3073519",
+      "name:etymology:wikipedia": "en:Thomas W. Lamont",
+      "opening_hours": "24/7",
+      "operator": "Harvard University",
+      "operator:type": "university",
+      "ref:isil": "US-mhlm",
+      "short_name": "Lamont",
+      "source": "USGS Geonames",
+      "start_date": "1948",
+      "website": "https://library.harvard.edu/libraries/lamont",
+      "wikidata": "Q6482212",
+      "wikipedia": "en:Lamont Library"
+    }
+  },
+  {
+    "name": "Divinity Hall",
+    "address": "12;14, Divinity Avenue",
+    "phone": "",
+    "lat": 42.3786358,
+    "lon": -71.1143085,
+    "tags": {
+      "addr:housenumber": "12;14",
+      "addr:state": "MA",
+      "addr:street": "Divinity Avenue",
+      "amenity": "university",
+      "building": "yes",
+      "education": "university",
+      "ele": "6",
+      "gnis:feature_id": "1971177",
+      "name": "Divinity Hall",
+      "source": "USGS Geonames",
+      "wikidata": "Q5284393"
+    }
+  },
+  {
+    "name": "Stan Getz Media Center And Library",
+    "address": "138;150, Massachusetts Avenue, Boston, 02115",
+    "phone": "",
+    "lat": 42.3467937,
+    "lon": -71.0869775,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "138;150",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "library",
+      "building": "college",
+      "building:colour": "#874C41",
+      "building:levels": "7",
+      "name": "Stan Getz Media Center And Library",
+      "office": "Berklee College Of Music",
+      "operator:type": "public",
+      "roof:material": "concrete",
+      "roof:shape": "flat",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "website": "https://library.berklee.edu/facility/stan-getz-library"
+    }
+  },
+  {
+    "name": "Allston Brighton APAC",
+    "address": "406, Cambridge Street",
+    "phone": "",
+    "lat": 42.3548087,
+    "lon": -71.1337191,
+    "tags": {
+      "addr:housenumber": "406",
+      "addr:street": "Cambridge Street",
+      "alt_name": "Allston Brighton Child & Family Services Center",
+      "amenity": "kindergarten",
+      "building": "yes",
+      "building:levels": "2",
+      "education": "kindergarten",
+      "name": "Allston Brighton APAC",
+      "short_name": "APAC",
+      "website": "https://allstonbrightonapac.org/"
+    }
+  },
+  {
+    "name": "Studio 52",
+    "address": "138, Harvard Avenue, Allston, 02134",
+    "phone": "",
+    "lat": 42.3522044,
+    "lon": -71.1313535,
+    "tags": {
+      "addr:city": "Allston",
+      "addr:housenumber": "138",
+      "addr:postcode": "02134",
+      "addr:state": "MA",
+      "addr:street": "Harvard Avenue",
+      "amenity": "music_school",
+      "building": "yes",
+      "building:levels": "5",
+      "education": "music_school",
+      "name": "Studio 52",
+      "website": "https://www.studio52boston.com/"
+    }
+  },
+  {
+    "name": "Harvard-Yenching Library",
+    "address": "2, Divinity Avenue, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3776973,
+    "lon": -71.1137358,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "2",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Divinity Avenue",
+      "amenity": "library",
+      "building": "yes",
+      "ele": "6",
+      "gnis:feature_id": "1971342",
+      "name": "Harvard-Yenching Library",
+      "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa-Su 12:00-17:00",
+      "operator:type": "university",
+      "ref:isil": "US-mhhy",
+      "source": "USGS Geonames",
+      "website": "https://library.harvard.edu/libraries/yenching",
+      "wikidata": "Q5676691",
+      "wikipedia": "en:Harvard–Yenching Library"
+    }
+  },
+  {
+    "name": "Cambridge Public Library",
+    "address": "449, Broadway, Cambridge, 02138",
+    "phone": "+1 617-349-4040",
+    "lat": 42.3739938,
+    "lon": -71.110524,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "449",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Broadway",
+      "air_conditioning": "yes",
+      "amenity": "library",
+      "building": "civic",
+      "building:levels": "3",
+      "check_date:opening_hours": "2025-07-06",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "internet_access:ssid": "Cambridge Public Internet",
+      "name": "Cambridge Public Library",
+      "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-17:00",
+      "phone": "+1 617-349-4040",
+      "ref:isil": "US-mc",
+      "roof:levels": "0",
+      "website": "https://www.cambridgema.gov/cpl/hoursandlocations/mainlibrary",
+      "wheelchair": "yes",
+      "wikidata": "Q5025501",
+      "wikipedia": "en:Cambridge Public Library"
+    }
+  },
+  {
+    "name": "Maria L. Baldwin School",
+    "address": "28",
+    "phone": "",
+    "lat": 42.3822984,
+    "lon": -71.116682,
+    "tags": {
+      "addr:housenumber": "28",
+      "amenity": "school",
+      "building": "school",
+      "education": "school",
+      "name": "Maria L. Baldwin School",
+      "name:etymology:wikidata": "Q6761375"
+    }
+  },
+  {
+    "name": "Larsen Building",
+    "address": "14, Appian Way, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.375421,
+    "lon": -71.1212915,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "14",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Appian Way",
+      "amenity": "university",
+      "building": "yes",
+      "education": "university",
+      "ele": "8",
+      "gnis:feature_id": "1971437",
+      "name": "Larsen Building",
+      "operator": "Harvard University",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "The Learning Circle",
+    "address": "137, Highland Avenue",
+    "phone": "",
+    "lat": 42.3881618,
+    "lon": -71.1019917,
+    "tags": {
+      "addr:housenumber": "137",
+      "addr:street": "Highland Avenue",
+      "amenity": "kindergarten",
+      "building": "yes",
+      "building:levels": "1",
+      "education": "kindergarten",
+      "name": "The Learning Circle",
+      "wikidata": "Q7411466"
+    }
+  },
+  {
+    "name": "Blackstone South",
+    "address": "46, Blackstone Street",
+    "phone": "",
+    "lat": 42.3636136,
+    "lon": -71.1150022,
+    "tags": {
+      "addr:housenumber": "46",
+      "addr:street": "Blackstone Street",
+      "amenity": "university",
+      "building": "yes",
+      "check_date": "2025-11-02",
+      "education": "university",
+      "name": "Blackstone South"
+    }
+  },
+  {
+    "name": "Somerville Central Library",
+    "address": "79, Highland Avenue, Somerville, 02143",
+    "phone": "+1 617 623-5000",
+    "lat": 42.3857881,
+    "lon": -71.0944054,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "79",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Highland Avenue",
+      "amenity": "library",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "building": "yes",
+      "contact:email": "library@somervillema.gov",
+      "contact:phone": "+1 617 623-5000",
+      "contact:website": "http://www.somervillepubliclibrary.org/",
+      "ele": "28",
+      "email": "library@somervillema.gov",
+      "gnis:feature_id": "1980780;2343439",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "internet_access:ssid": "somlibrary_5GHz",
+      "name": "Somerville Central Library",
+      "office": "Somerville",
+      "opening_hours": "Mo-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00; Jun-Aug: Su off; Sep-May: Su 13:00-17:00",
+      "phone": "+1 617 623-5000",
+      "ref:isil": "US-mso",
+      "region": "Metrowest",
+      "source": "USGS Geonames",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "Public",
+      "website": "https://www.somervillepubliclibrary.org/",
+      "wikidata": "Q5061361"
+    }
+  },
+  {
+    "name": "Cambridge Nursery School",
+    "address": "6, Hillside Place",
+    "phone": "",
+    "lat": 42.3861421,
+    "lon": -71.1245938,
+    "tags": {
+      "addr:housenumber": "6",
+      "addr:street": "Hillside Place",
+      "amenity": "school",
+      "building": "yes",
+      "education": "school",
+      "name": "Cambridge Nursery School",
+      "website": "http://cambridgenurseryschool.org/"
+    }
+  },
+  {
+    "name": "University Hall",
+    "address": "1815, Massachusetts Avenue",
+    "phone": "",
+    "lat": 42.3872747,
+    "lon": -71.1185971,
+    "tags": {
+      "addr:housenumber": "1815",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "alt_name": "Porter Exchange Building",
+      "amenity": "university",
+      "building": "yes",
+      "education": "university",
+      "ele": "9",
+      "gnis:feature_id": "1971658",
+      "name": "University Hall",
+      "old_name": "Sears",
+      "operator": "Lesley University",
+      "source": "USGS Geonames"
+    }
+  },
+  {
+    "name": "William McKinley Middle School",
+    "address": "50, Saint Mary's Street, Boston, 02215",
+    "phone": "+1-617-635-9853",
+    "lat": 42.347944,
+    "lon": -71.1067627,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "50",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Saint Mary's Street",
+      "amenity": "school",
+      "building": "school",
+      "building:levels": "3",
+      "grades": "6,7,8",
+      "name": "William McKinley Middle School",
+      "phone": "+1-617-635-9853",
+      "roof:levels": "0",
+      "website": "https://www.bostonpublicschools.org/Page/884"
+    }
+  },
+  {
+    "name": "Boston University Academy",
+    "address": "1, University Road, 02215",
+    "phone": "+1 617 353 9000",
+    "lat": 42.35116,
+    "lon": -71.1100412,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "02215",
+      "addr:street": "University Road",
+      "amenity": "school",
+      "building": "university",
+      "check_date": "2025-06-02",
+      "name": "Boston University Academy",
+      "phone": "+1 617 353 9000",
+      "website": "https://www.buacademy.org/",
+      "wikidata": "Q4948167"
+    }
+  },
+  {
+    "name": "Cambridge Library Central Square Branch",
+    "address": "",
+    "phone": "",
+    "lat": 42.3638971,
+    "lon": -71.103805,
+    "tags": {
+      "amenity": "library",
+      "building": "yes",
+      "check_date": "2025-10-21",
+      "ele": "5",
+      "gnis:feature_id": "1971095",
+      "internet_access": "yes",
+      "internet_access:fee": "no",
+      "name": "Cambridge Library Central Square Branch",
+      "opening_hours": "Mo,We,Fr 10:00-18:00; Tu,Th 10:00-21:00; Sep-Jun: Sa 10:00-14:00",
+      "operator": "Cambridge Public Library",
+      "operator:type": "public",
+      "source": "USGS Geonames",
+      "website": "https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations/centralsquarebranch"
+    }
+  },
+  {
+    "name": "Hastings Building",
+    "address": "1541, Massachusetts Avenue",
+    "phone": "",
+    "lat": 42.3774862,
+    "lon": -71.1195815,
+    "tags": {
+      "addr:housenumber": "1541",
+      "addr:state": "MA",
+      "addr:street": "Massachusetts Avenue",
+      "amenity": "university",
+      "building": "yes",
+      "check_date": "2025-06-26",
+      "education": "university",
+      "ele": "7",
+      "gnis:feature_id": "1971344",
+      "name": "Hastings Building",
+      "operator": "Harvard University",
+      "source": "USGS Geonames",
+      "wheelchair": "designated"
+    }
+  },
+  {
+    "name": "Coolidge Corner Branch Library",
+    "address": "31, Pleasant Street, Brookline, 02446",
+    "phone": "+1-617-730-2380",
+    "lat": 42.3435529,
+    "lon": -71.1191551,
+    "tags": {
+      "addr:city": "Brookline",
+      "addr:housenumber": "31",
+      "addr:postcode": "02446",
+      "addr:state": "MA",
+      "addr:street": "Pleasant Street",
+      "amenity": "library",
+      "building": "yes",
+      "gnis:feature_id": "1972382;607136",
+      "name": "Coolidge Corner Branch Library",
+      "operator": "The Public Library of Brookline",
+      "operator:wikidata": "Q69477469",
+      "phone": "+1-617-730-2380",
+      "website": "https://www.brooklinelibrary.org/",
+      "wikidata": "Q69862782"
+    }
+  },
+  {
+    "name": "Baker Library / Bloomberg Center",
+    "address": "Soldiers Field, Boston, 02163",
+    "phone": "+1 617 495 6040",
+    "lat": 42.3664146,
+    "lon": -71.1227928,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02163",
+      "addr:state": "MA",
+      "addr:street": "Soldiers Field",
+      "amenity": "library",
+      "building": "yes",
+      "ele": "3",
+      "email": "infoservices@hbs.edu",
+      "gnis:feature_id": "1970976",
+      "name": "Baker Library / Bloomberg Center",
+      "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-17:00; Su 12:00-19:00",
+      "operator:type": "college",
+      "phone": "+1 617 495 6040",
+      "source": "MassGIS Buildings (http://www.mass.gov/mgis/lidarbuildingfp2d.htm);USGS Geonames",
+      "website": "https://www.library.hbs.edu/"
+    }
+  },
+  {
+    "name": "Cambridge Rindge & Latin School",
+    "address": "459, Broadway, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.374028,
+    "lon": -71.1107118,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "459",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Broadway",
+      "amenity": "school",
+      "education": "school",
+      "name": "Cambridge Rindge & Latin School",
+      "website": "https://crls.cpsd.us",
+      "wikidata": "Q5025512",
+      "wikipedia": "en:Cambridge Rindge and Latin School"
+    }
+  },
+  {
+    "name": "Schlesinger Library",
+    "address": "3, James Street",
+    "phone": "",
+    "lat": 42.3757485,
+    "lon": -71.1231303,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:state": "MA",
+      "addr:street": "James Street",
+      "amenity": "library",
+      "building": "yes",
+      "check_date": "2024-03-06",
+      "ele": "8",
+      "full_name": "Arthur and Elizabeth Schlesinger Library on the History of Women in America",
+      "gnis:feature_id": "1970961",
+      "name": "Schlesinger Library",
+      "operator:type": "university",
+      "source": "MassGIS Buildings (http://www.mass.gov/mgis/lidarbuildingfp2d.htm);USGS Geonames",
+      "website": "https://www.radcliffe.harvard.edu/schlesinger-library",
+      "wikidata": "Q7431696",
+      "wikipedia": "en:Schlesinger Library"
+    }
+  },
+  {
+    "name": "Morse School",
+    "address": "",
+    "phone": "+16173496575",
+    "lat": 42.3557398,
+    "lon": -71.112251,
+    "tags": {
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "isced:level": "0;1",
+      "massgis:school_id": "00490045",
+      "name": "Morse School",
+      "operator": "Cambridge Public Schools",
+      "phone": "+16173496575",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "website": "https://morse.cpsd.us/"
+    }
+  },
+  {
+    "name": "Thomas Gardner School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3607269,
+    "lon": -71.1339454,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Thomas Gardner School"
+    }
+  },
+  {
+    "name": "German International School Boston",
+    "address": "57, Holton Street, Boston, 02134, US",
+    "phone": "",
+    "lat": 42.3604371,
+    "lon": -71.1358442,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:country": "US",
+      "addr:housenumber": "57",
+      "addr:postcode": "02134",
+      "addr:state": "MA",
+      "addr:street": "Holton Street",
+      "amenity": "school",
+      "check_date": "2025-09-25",
+      "education": "school",
+      "name": "German International School Boston",
+      "wikidata": "Q1203923"
+    }
+  },
+  {
+    "name": "Emmanuel College",
+    "address": "",
+    "phone": "",
+    "lat": 42.3406961,
+    "lon": -71.1029959,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "Emmanuel College",
+      "wikidata": "Q5373193"
+    }
+  },
+  {
+    "name": "Albert F. Argenziano School",
+    "address": "290, Washington Street, Somerville, 02143",
+    "phone": "+1-617-629-5460",
+    "lat": 42.3788647,
+    "lon": -71.098765,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "290",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Washington Street",
+      "alt_name": "Argenziano School",
+      "amenity": "school",
+      "education": "school",
+      "grades": "PK-8",
+      "name": "Albert F. Argenziano School",
+      "operator": "Somerville Public Schools",
+      "phone": "+1-617-629-5460",
+      "religion": "none",
+      "website": "https://somerville.k12.ma.us/schools/albert-f-argenziano-school-pk%E2%80%938"
+    }
+  },
+  {
+    "name": "Shady Hill School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3713556,
+    "lon": -71.1381545,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Shady Hill School"
+    }
+  },
+  {
+    "name": "Mugar Memorial Library",
+    "address": "771, Commonwealth Avenue, Boston, 02215",
+    "phone": "+1-617-353-2700",
+    "lat": 42.3510008,
+    "lon": -71.1080037,
+    "tags": {
+      "access": "private",
+      "addr:city": "Boston",
+      "addr:housenumber": "771",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Commonwealth Avenue",
+      "air_conditioning": "yes",
+      "amenity": "library",
+      "architect": "Sert, Jackson & Gourley",
+      "building": "university",
+      "building:levels": "6",
+      "check_date": "2025-06-02",
+      "internet_access": "yes",
+      "name": "Mugar Memorial Library",
+      "official_name": "Stephen P. Mugar Memorial Library",
+      "operator": "Boston University",
+      "operator:type": "university",
+      "phone": "+1-617-353-2700",
+      "start_date": "1966",
+      "website": "https://www.bu.edu/library/mugar-memorial/",
+      "wheelchair": "yes",
+      "wikidata": "Q6932084",
+      "wikipedia": "en:Mugar Memorial Library"
+    }
+  },
+  {
+    "name": "Prospect Hill Academy Charter School",
+    "address": "15, Webster Avenue, Somerville, 02143",
+    "phone": "",
+    "lat": 42.3787033,
+    "lon": -71.0966214,
+    "tags": {
+      "addr:city": "Somerville",
+      "addr:housenumber": "15",
+      "addr:postcode": "02143",
+      "addr:state": "MA",
+      "addr:street": "Webster Avenue",
+      "amenity": "school",
+      "check_date": "2023-05-10",
+      "education": "school",
+      "massgis:school_id": "04870550",
+      "name": "Prospect Hill Academy Charter School",
+      "owner": "Roman Catholic Archbishop of Boston",
+      "type": "charter"
+    }
+  },
+  {
+    "name": "Jack Hamilton Center",
+    "address": "",
+    "phone": "",
+    "lat": 42.3775294,
+    "lon": -71.0935097,
+    "tags": {
+      "amenity": "kindergarten",
+      "description": "childcare and headstart",
+      "education": "kindergarten",
+      "name": "Jack Hamilton Center",
+      "owner": "Community Action Agency of Somerville"
+    }
+  },
+  {
+    "name": "Kennedy-Longfellow School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3693777,
+    "lon": -71.0864554,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "3",
+      "gnis:feature_id": "599851",
+      "name": "Kennedy-Longfellow School"
+    }
+  },
+  {
+    "name": "Bunker Hill Community College",
+    "address": "250, Rutherford Avenue, Boston, 02129",
+    "phone": "",
+    "lat": 42.3762873,
+    "lon": -71.0710009,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "250",
+      "addr:postcode": "02129",
+      "addr:state": "MA",
+      "addr:street": "Rutherford Avenue",
+      "amenity": "college",
+      "education": "college",
+      "name": "Bunker Hill Community College",
+      "short_name": "BHCC",
+      "website": "https://www.bhcc.edu/",
+      "wikidata": "Q3695816",
+      "wikipedia": "en:Bunker Hill Community College"
+    }
+  },
+  {
+    "name": "Boston Latin School",
+    "address": "78, Avenue Louis Pasteur, Boston, 02115",
+    "phone": "+1-617-635-8895",
+    "lat": 42.3379176,
+    "lon": -71.1011849,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "78",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Avenue Louis Pasteur",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "contact:facebook": "https://www.facebook.com/BLS1635BLSA/",
+      "contact:fax": "+1-617-635-7883",
+      "contact:instagram": "https://www.instagram.com/blsthrives/",
+      "contact:phone": "+1-617-635-8895",
+      "contact:twitter": "https://twitter.com/BostLatinSchool",
+      "facebook": "https://www.facebook.com/BLS1635BLSA/",
+      "fax": "+1-617-635-7883",
+      "grades": "7-12",
+      "instagram": "https://www.instagram.com/blsthrives/",
+      "massgis:school_id": "00350560",
+      "name": "Boston Latin School",
+      "operator": "Boston Public Schools",
+      "operator:short": "BPS",
+      "operator:type": "public",
+      "operator:wikidata": "Q2215021",
+      "phone": "+1-617-635-8895",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "twitter": "https://twitter.com/BostLatinSchool",
+      "type": "Public",
+      "website": "https://www.bls.org/",
+      "wikidata": "Q49129",
+      "wikipedia": "en:Boston Latin School"
+    }
+  },
+  {
+    "name": "Boston University Brookline Campus",
+    "address": "43, Hawes Street",
+    "phone": "",
+    "lat": 42.3438029,
+    "lon": -71.1097679,
+    "tags": {
+      "addr:housenumber": "43",
+      "addr:street": "Hawes Street",
+      "amenity": "college",
+      "education": "college",
+      "ele": "9",
+      "gnis:feature_id": "1972837;607143",
+      "name": "Boston University Brookline Campus",
+      "old_name": "Hebrew Teachers College"
+    }
+  },
+  {
+    "name": "Wheelock College Brookline",
+    "address": "",
+    "phone": "",
+    "lat": 42.3414082,
+    "lon": -71.1125427,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "Wheelock College Brookline"
+    }
+  },
+  {
+    "name": "The Winsor School",
+    "address": "Pilgrim Road, Boston, 02215",
+    "phone": "+1 617 735 9500",
+    "lat": 42.3401596,
+    "lon": -71.1071745,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Pilgrim Road",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "ele": "8",
+      "gnis:feature_id": "2344914",
+      "grades": "5,6,7,8,9,10,11,12",
+      "massgis:school_id": "00350910",
+      "name": "The Winsor School",
+      "phone": "+1 617 735 9500",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "wikidata": "Q8025997"
+    }
+  },
+  {
+    "name": "Buckingham Browne & Nichols Upper School",
+    "address": "80, Gerry's Landing Road, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3713093,
+    "lon": -71.136209,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "80",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Gerry's Landing Road",
+      "amenity": "school",
+      "education": "school",
+      "name": "Buckingham Browne & Nichols Upper School",
+      "operator": "Buckingham Browne & Nichols"
+    }
+  },
+  {
+    "name": "Fisher College",
+    "address": "118, Beacon Street, Boston, 02116",
+    "phone": "+1-617-236-8818",
+    "lat": 42.3553649,
+    "lon": -71.0738358,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "118",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Beacon Street",
+      "amenity": "college",
+      "check_date": "2024-07-04",
+      "education": "college",
+      "name": "Fisher College",
+      "operator": "New England Association of Schools and Colleges",
+      "operator:type": "private_non_profit",
+      "phone": "+1-617-236-8818",
+      "website": "https://www.fisher.edu/",
+      "wikidata": "Q5454775",
+      "wikipedia": "en:Fisher College"
+    }
+  },
+  {
+    "name": "Northeastern University",
+    "address": "360, Huntington Avenue, Boston, 02115",
+    "phone": "",
+    "lat": 42.3389585,
+    "lon": -71.0886069,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "360",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Huntington Avenue",
+      "amenity": "university",
+      "education": "university",
+      "gnis:feature_id": "1971607",
+      "name": "Northeastern University",
+      "website": "https://www.northeastern.edu/",
+      "wheelchair": "yes",
+      "wikidata": "Q37548",
+      "wikipedia": "en:Northeastern University"
+    }
+  },
+  {
+    "name": "Dr. Martin Luther King, Jr. School",
+    "address": "",
+    "phone": "",
+    "lat": 42.367053,
+    "lon": -71.1126344,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Dr. Martin Luther King, Jr. School",
+      "name:etymology:wikidata": "Q8027",
+      "website": "https://www.cambridgema.gov/cmanager/mlkjrschoolconstruction.aspx",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "name": "Florida Ruffin Ridley School",
+    "address": "345, Harvard Street, Brookline, 02446",
+    "phone": "+1 617 879 4400",
+    "lat": 42.3448331,
+    "lon": -71.1238123,
+    "tags": {
+      "addr:city": "Brookline",
+      "addr:housenumber": "345",
+      "addr:postcode": "02446",
+      "addr:state": "MA",
+      "addr:street": "Harvard Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "gnis:feature_id": "599848",
+      "grades": "PK,K,1,2,3,4,5,6,7,8",
+      "massgis:school_id": "00460015",
+      "name": "Florida Ruffin Ridley School",
+      "name:etymology:wikidata": "Q22338526",
+      "operator": "Town of Brookline",
+      "operator:type": "public",
+      "phone": "+1 617 879 4400",
+      "religion": "none",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "Public",
+      "website": "https://www.brookline.k12.ma.us/Page/216"
+    }
+  },
+  {
+    "name": "East Somerville Community School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3859716,
+    "lon": -71.0865489,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "East Somerville Community School"
+    }
+  },
+  {
+    "name": "French Cultural Center",
+    "address": "53, Marlborough Street, Boston, 02116",
+    "phone": "+1 617 912 0400",
+    "lat": 42.3541269,
+    "lon": -71.0747433,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "53",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Marlborough Street",
+      "amenity": "library",
+      "building": "residential",
+      "gnis:feature_id": "2344895",
+      "name": "French Cultural Center",
+      "phone": "+1 617 912 0400",
+      "region": "Boston",
+      "website": "https://frenchculturalcenter.org/"
+    }
+  },
+  {
+    "name": "Amigos School",
+    "address": "",
+    "phone": "+16173496567",
+    "lat": 42.3630378,
+    "lon": -71.1082653,
+    "tags": {
+      "amenity": "school",
+      "capacity": "315",
+      "check_date": "2023-05-08",
+      "ele": "6",
+      "gnis:feature_id": "1971297",
+      "isced:level": "0;1;2",
+      "name": "Amigos School",
+      "old_name": "Graham and Parks Alternative School",
+      "operator": "Cambridge Public Schools",
+      "phone": "+16173496567",
+      "website": "https://amigos.cpsd.us/",
+      "wikidata": "Q4746243",
+      "wikipedia": "en:Amigos School"
+    }
+  },
+  {
+    "name": "McKinley Preparatory High School",
+    "address": "94, Peterborough Street, Boston, 02215",
+    "phone": "",
+    "lat": 42.3435036,
+    "lon": -71.0990877,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "94",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Peterborough Street",
+      "amenity": "school",
+      "education": "school",
+      "name": "McKinley Preparatory High School"
+    }
+  },
+  {
+    "name": "Michael E. Capuano Early Childhood Center",
+    "address": "",
+    "phone": "",
+    "lat": 42.3828157,
+    "lon": -71.086501,
+    "tags": {
+      "amenity": "kindergarten",
+      "education": "kindergarten",
+      "name": "Michael E. Capuano Early Childhood Center"
+    }
+  },
+  {
+    "name": "Buckingham Browne & Nichols School (Lower School Campus)",
+    "address": "",
+    "phone": "",
+    "lat": 42.3790903,
+    "lon": -71.1286357,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Buckingham Browne & Nichols School (Lower School Campus)"
+    }
+  },
+  {
+    "name": "Buckingham Browne & Nichols School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3808324,
+    "lon": -71.1312263,
+    "tags": {
+      "amenity": "school",
+      "check_date": "2024-06-24",
+      "education": "school",
+      "name": "Buckingham Browne & Nichols School"
+    }
+  },
+  {
+    "name": "Cambridgeport School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3694832,
+    "lon": -71.097802,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Cambridgeport School"
+    }
+  },
+  {
+    "name": "Fletcher Maynard Academy",
+    "address": "",
+    "phone": "",
+    "lat": 42.3667408,
+    "lon": -71.0959345,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Fletcher Maynard Academy",
+      "wikidata": "Q123036772"
+    }
+  },
+  {
+    "name": "Graham and Parks School",
+    "address": "44, Linnaean Street, Cambridge, 02138",
+    "phone": "+1 617-349-6577",
+    "lat": 42.382718,
+    "lon": -71.1237238,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "44",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Linnaean Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "K,1,2,3,4,5,6,7,8",
+      "massgis:school_id": "00490080",
+      "name": "Graham and Parks School",
+      "operator": "Cambridge Public School District",
+      "operator:type": "public",
+      "phone": "+1 617-349-6577",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "Public",
+      "website": "https://grahamandparks.cpsd.us/"
+    }
+  },
+  {
+    "name": "King Open/Cambridge Street Upper School & Community Complex",
+    "address": "",
+    "phone": "",
+    "lat": 42.3717534,
+    "lon": -71.0910877,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "King Open/Cambridge Street Upper School & Community Complex"
+    }
+  },
+  {
+    "name": "John F. Kennedy School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3892098,
+    "lon": -71.1156338,
+    "tags": {
+      "amenity": "school",
+      "check_date": "2025-02-27",
+      "education": "school",
+      "name": "John F. Kennedy School"
+    }
+  },
+  {
+    "name": "Lesley University Porter Campus",
+    "address": "",
+    "phone": "",
+    "lat": 42.3870848,
+    "lon": -71.1184417,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Lesley University Porter Campus",
+      "operator": "Lesley University"
+    }
+  },
+  {
+    "name": "Lesley University Brattle Campus",
+    "address": "",
+    "phone": "",
+    "lat": 42.3768662,
+    "lon": -71.1246379,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Lesley University Brattle Campus",
+      "operator": "Lesley University",
+      "operator:type": "private"
+    }
+  },
+  {
+    "name": "Lesley University Doble Campus",
+    "address": "",
+    "phone": "",
+    "lat": 42.3811132,
+    "lon": -71.1173792,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Lesley University Doble Campus",
+      "operator": "Lesley University",
+      "operator:type": "private",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "name": "Ivy Street School",
+    "address": "200, Ivy Street, Brookline, 02446",
+    "phone": "+1 617 238 5110",
+    "lat": 42.3475059,
+    "lon": -71.1134854,
+    "tags": {
+      "addr:city": "Brookline",
+      "addr:housenumber": "200",
+      "addr:postcode": "02446",
+      "addr:state": "MA",
+      "addr:street": "Ivy Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "ele": "11",
+      "gnis:feature_id": "599850",
+      "grades": "SP",
+      "massgis:school_id": "01240810",
+      "name": "Ivy Street School",
+      "old_name": "St. Dominic's Institute",
+      "phone": "+1 617 238 5110",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Approved Special Education",
+      "wikidata": "Q18152567"
+    }
+  },
+  {
+    "name": "NE Hebrew Academy",
+    "address": "9, Prescott Street, Brookline, 02446",
+    "phone": "+1 617 731 5330",
+    "lat": 42.3487693,
+    "lon": -71.1108099,
+    "tags": {
+      "addr:city": "Brookline",
+      "addr:housenumber": "9",
+      "addr:postcode": "02446",
+      "addr:state": "MA",
+      "addr:street": "Prescott Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "ele": "9",
+      "gnis:feature_id": "607115",
+      "grades": "PK,K,9,10,11,12",
+      "massgis:school_id": "00460812",
+      "name": "NE Hebrew Academy",
+      "phone": "+1 617 731 5330",
+      "source_url": "http://mass.gov/mgis/schools.htm",
+      "type": "Private"
+    }
+  },
+  {
+    "name": "Somerville High School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3871393,
+    "lon": -71.0963804,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Somerville High School"
+    }
+  },
+  {
+    "name": "School of Theology",
+    "address": "745, Commonwealth Avenue, Boston, 02215",
+    "phone": "",
+    "lat": 42.3505055,
+    "lon": -71.1073614,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "745",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Commonwealth Avenue",
+      "amenity": "university",
+      "building": "university",
+      "building:levels": "7",
+      "check_date": "2024-10-03",
+      "name": "School of Theology",
+      "source": "esri/Boston_MA_Addresses"
+    }
+  },
+  {
+    "name": "Prospect Hill Academy Charter School",
+    "address": "50, Essex Street, Cambridge, 02139",
+    "phone": "+1 617 497 8454",
+    "lat": 42.3676008,
+    "lon": -71.100733,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "50",
+      "addr:postcode": "02139",
+      "addr:state": "MA",
+      "addr:street": "Essex Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "contact:pobox": "391497",
+      "education": "school",
+      "grades": "PK,K,1,2,3,4,5",
+      "massgis:school_id": "00490855",
+      "name": "Prospect Hill Academy Charter School",
+      "phone": "+1 617 497 8454",
+      "source": "MassGIS Schools (http://mass.gov/mgis/schools.htm)",
+      "type": "Private",
+      "website": "https://www.phacs.org/",
+      "wikidata": "Q7250763"
+    }
+  },
+  {
+    "name": "New England College of Optometry",
+    "address": "",
+    "phone": "",
+    "lat": 42.3519159,
+    "lon": -71.0867726,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "New England College of Optometry"
+    }
+  },
+  {
+    "name": "High School Extension Program",
+    "address": "",
+    "phone": "",
+    "lat": 42.3709343,
+    "lon": -71.1039891,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "High School Extension Program",
+      "operator": "Cambridge Public Schools",
+      "operator:type": "public"
+    }
+  },
+  {
+    "name": "William McKinley Middle School",
+    "address": "50, Saint Mary's Street, Boston, 02215",
+    "phone": "",
+    "lat": 42.3478657,
+    "lon": -71.106691,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "50",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Saint Mary's Street",
+      "amenity": "school",
+      "name": "William McKinley Middle School",
+      "operator": "Boston",
+      "wikidata": "Q132472490"
+    }
+  },
+  {
+    "name": "Cambridge-Ellis School",
+    "address": "",
+    "phone": "",
+    "lat": 42.3754783,
+    "lon": -71.1096203,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "name": "Cambridge-Ellis School"
+    }
+  },
+  {
+    "name": "Lincoln Institute of Land Policy",
+    "address": "113, Brattle Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3771464,
+    "lon": -71.1272721,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "113",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Brattle Street",
+      "amenity": "research_institute",
+      "name": "Lincoln Institute of Land Policy",
+      "office": "research",
+      "wikidata": "Q16932836"
+    }
+  },
+  {
+    "name": "Graduate Institute for Biblical Studies",
+    "address": "",
+    "phone": "",
+    "lat": 42.3777529,
+    "lon": -71.1262392,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "Graduate Institute for Biblical Studies"
+    }
+  },
+  {
+    "name": "Boston University Fenway Campus",
+    "address": "",
+    "phone": "",
+    "lat": 42.3422638,
+    "lon": -71.1057254,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Boston University Fenway Campus",
+      "old_name": "Wheelock College"
+    }
+  },
+  {
+    "name": "Community Charter School of Cambridge",
+    "address": "245, Bent Street, Cambridge, 02141",
+    "phone": "+1 617 354 0047",
+    "lat": 42.36783,
+    "lon": -71.0848607,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "245",
+      "addr:postcode": "02141",
+      "addr:state": "MA",
+      "addr:street": "Bent Street",
+      "amenity": "school",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "education": "school",
+      "grades": "7,8,9,10,11",
+      "massgis:school_id": "04360305",
+      "name": "Community Charter School of Cambridge",
+      "phone": "+1 617 354 0047",
+      "source:url": "http://mass.gov/mgis/schools.htm",
+      "type": "Charter",
+      "wikidata": "Q5154670"
+    }
+  },
+  {
+    "name": "New School of Music",
+    "address": "",
+    "phone": "",
+    "lat": 42.3753729,
+    "lon": -71.1334873,
+    "tags": {
+      "amenity": "school",
+      "education": "school",
+      "ele": "8",
+      "gnis:feature_id": "603126",
+      "name": "New School of Music"
+    }
+  },
+  {
+    "name": "Boston Public Library",
+    "address": "700, Boylston Street, Boston, 02116",
+    "phone": "+1-617-536-5400",
+    "lat": 42.3493237,
+    "lon": -71.0782892,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "700",
+      "addr:postcode": "02116",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "amenity": "library",
+      "architect": "Charles Follen McKim",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "building": "yes",
+      "email": "ask@bpl.org",
+      "heritage:website": "https://catalog.archives.gov/id/63796738",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "name": "Boston Public Library",
+      "office": "Boston Massachusetts Regional Library System",
+      "opening_hours": "Mo-Tu 10:00-18:00; We 10:00-20:00; Th 10:00-18:00; Fr-Sa 09:00-17:00",
+      "phone": "+1-617-536-5400",
+      "ref:nrhp": "73000317",
+      "region": "Boston",
+      "source:url": "http://mass.gov/mgis/libraries.htm",
+      "type": "multipolygon",
+      "website": "https://bpl.org/",
+      "wikidata": "Q894583",
+      "wikipedia": "en:Boston Public Library"
+    }
+  },
+  {
+    "name": "Hilles Library",
+    "address": "59, Shepard Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3808977,
+    "lon": -71.125098,
+    "tags": {
+      "access": "private",
+      "addr:city": "Cambridge",
+      "addr:housenumber": "59",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Shepard Street",
+      "amenity": "library",
+      "architect": "Harrison and Abramovitz",
+      "building": "university",
+      "building:levels": "4",
+      "ele": "8",
+      "gnis:feature_id": "1971358",
+      "internet_access": "yes",
+      "name": "Hilles Library",
+      "name:etymology": "Susan Morse Hilles;Frederick W. Hilles",
+      "operator": "Harvard University",
+      "operator:type": "university",
+      "roof:levels": "0",
+      "roof:shape": "flat",
+      "source": "USGS Geonames",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Sherrill Library",
+    "address": "89, Brattle Street",
+    "phone": "",
+    "lat": 42.3763226,
+    "lon": -71.1240713,
+    "tags": {
+      "addr:housenumber": "89",
+      "addr:street": "Brattle Street",
+      "amenity": "library",
+      "building": "yes",
+      "name": "Sherrill Library",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "address": "Cambridge",
+    "phone": "+16172531000",
+    "lat": 42.3594232,
+    "lon": -71.0959002,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:state": "MA",
+      "amenity": "university",
+      "education": "university",
+      "gnis:feature_id": "1959163",
+      "name": "Massachusetts Institute of Technology",
+      "name:en": "Massachusetts Institute of Technology",
+      "name:et": "Massachusettsi Tehnoloogiainstituut",
+      "name:he": "המכון הטכנולוגי של מסצ'וסטס",
+      "name:ja": "マサチューセッツ工科大学",
+      "name:tr": "Massachusetts Teknoloji Enstitüsü",
+      "name:uk": "Массачусетський технологічний інститут",
+      "name:vi": "Viện Công nghệ Massachusetts",
+      "name:zh": "麻省理工学院",
+      "phone": "+16172531000",
+      "short_name": "MIT",
+      "short_name:zh": "麻省理工",
+      "type": "multipolygon",
+      "website": "https://web.mit.edu/",
+      "wheelchair": "limited",
+      "wikidata": "Q49108",
+      "wikipedia": "en:Massachusetts Institute of Technology"
+    }
+  },
+  {
+    "name": "Honan-Allston Branch Library",
+    "address": "300, North Harvard Street, 02134",
+    "phone": "+1-617-787-6313",
+    "lat": 42.360135,
+    "lon": -71.1279507,
+    "tags": {
+      "addr:housenumber": "300",
+      "addr:postcode": "02134",
+      "addr:street": "North Harvard Street",
+      "amenity": "library",
+      "building": "yes",
+      "contact:facebook": "bostonpubliclibrary",
+      "contact:instagram": "bplboston",
+      "contact:twitter": "bplboston",
+      "email": "honanallston@bpl.org",
+      "internet_access": "wlan",
+      "name": "Honan-Allston Branch Library",
+      "opening_hours": "Mo-Tu, Th 10:00-18:00; We 12:00-20:00; Fr-Sa 09:00-17:00",
+      "phone": "+1-617-787-6313",
+      "type": "multipolygon",
+      "website": "https://www.bpl.org/locations/honan-allston/",
+      "wikidata": "Q14715554"
+    }
+  },
+  {
+    "name": "Center for Astrophysics",
+    "address": "60, Garden Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3814488,
+    "lon": -71.1281998,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "60",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Garden Street",
+      "aerospace:product": "astronomical_observatory",
+      "alt_name": "Harvard–Smithsonian Center for Astrophysics",
+      "amenity": "research_institute",
+      "building": "university",
+      "check_date": "2025-08-05",
+      "faculty": "astronomy;astrophysics",
+      "full_name": "Center for Astrophysics | Harvard & Smithsonian",
+      "name": "Center for Astrophysics",
+      "operator": "Harvard & Smithsonian",
+      "start_date": "1973",
+      "type": "multipolygon",
+      "website": "https://www.cfa.harvard.edu/facilities-technology/cfa-facilities/headquarters-cambridge-ma",
+      "wikidata": "Q1133697",
+      "wikipedia": "en:Harvard–Smithsonian Center for Astrophysics"
+    }
+  },
+  {
+    "name": "Harvard University",
+    "address": "",
+    "phone": "",
+    "lat": 42.3715831,
+    "lon": -71.1233089,
+    "tags": {
+      "amenity": "university",
+      "check_date": "2025-07-27",
+      "education": "university",
+      "ele": "6",
+      "gnis:feature_id": "618399",
+      "name": "Harvard University",
+      "name:ar": "جامعة هارفارد",
+      "name:az": "Harvard Universiteti",
+      "name:ba": "Гарвард университеты",
+      "name:be": "Гарвардскі ўніверсітэт",
+      "name:bg": "Харвардски университет",
+      "name:bn": "হার্ভার্ড বিশ্ববিদ্যালয়",
+      "name:br": "Skol-veur Harvard",
+      "name:ca": "Universitat de Harvard",
+      "name:cs": "Harvardova univerzita",
+      "name:cv": "Харвăрт Университечĕ",
+      "name:cy": "Prifysgol Harvard",
+      "name:da": "Harvard",
+      "name:el": "Πανεπιστήμιο Χάρβαρντ",
+      "name:eo": "Universitato Harvard",
+      "name:es": "Universidad de Harvard",
+      "name:et": "Harvardi ülikool",
+      "name:eu": "Harvard Unibertsitatea",
+      "name:fa": "دانشگاه هاروارد",
+      "name:fi": "Harvardin yliopisto",
+      "name:fr": "Université Harvard",
+      "name:ga": "Ollscoil Harvard",
+      "name:gd": "Oilthigh Harvard",
+      "name:gl": "Universidade Harvard",
+      "name:he": "אוניברסיטת הרווארד",
+      "name:hi": "हार्वर्ड विश्वविद्यालय",
+      "name:hr": "Sveučilište Harvard",
+      "name:hu": "Harvard Egyetem",
+      "name:hy": "Հարվարդի համալսարան",
+      "name:id": "Universitas Harvard",
+      "name:is": "Harvard-háskóli",
+      "name:it": "Università di Harvard",
+      "name:ja": "ハーバード大学",
+      "name:jv": "Universitas Harvard",
+      "name:ka": "ჰარვარდის უნივერსიტეტი",
+      "name:kk": "Гарвард университеті",
+      "name:kn": "ಹಾರ್ವರ್ಡ್ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ",
+      "name:ko": "하버드 대학교",
+      "name:ku": "Zanîngeha Harvardê",
+      "name:la": "Universitas Harvardiana",
+      "name:lb": "Harvard Universitéit",
+      "name:lt": "Harvardo universitetas",
+      "name:lv": "Hārvarda universitāte",
+      "name:mk": "Харвард",
+      "name:mr": "हार्वर्ड विद्यापीठ",
+      "name:ms": "Universiti Harvard",
+      "name:my": "ဟားဗတ် တက္ကသိုလ်",
+      "name:nl": "Harvard-universiteit",
+      "name:oc": "Universitat de Harvard",
+      "name:pt": "Universidade Harvard",
+      "name:qu": "Harvard Yachay Suntur",
+      "name:ro": "Universitatea Harvard",
+      "name:ru": "Гарвардский университет",
+      "name:sa": "हार्वर्ड् विश्वविद्यालयः",
+      "name:sl": "Univerza Harvard",
+      "name:sq": "Harvard",
+      "name:sr": "Универзитет Харвард",
+      "name:sw": "Chuo Kikuu cha Harvard",
+      "name:ta": "ஹார்வர்டு பல்கலைக்கழகம்",
+      "name:te": "హార్వర్డ్ విశ్వవిద్యాలయం",
+      "name:th": "มหาวิทยาลัยฮาร์วาร์ด",
+      "name:tr": "Harvard Üniversitesi",
+      "name:tt": "Harvard universitetı",
+      "name:ug": "خارۋارد ئۇنىۋېرسىتېتى",
+      "name:uk": "Гарвардський університет",
+      "name:ur": "جامعہ ہارورڈ",
+      "name:vi": "Đại học Harvard",
+      "name:yi": "הארווארד אוניווערסיטעט",
+      "name:yo": "Yunifásítì Harvard",
+      "name:zh": "哈佛大学",
+      "operator:type": "private",
+      "type": "multipolygon",
+      "wheelchair": "limited",
+      "wikidata": "Q13371",
+      "wikipedia": "en:Harvard University"
+    }
+  },
+  {
+    "name": "Wheelock College",
+    "address": "",
+    "phone": "",
+    "lat": 42.3414082,
+    "lon": -71.1125427,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "ele": "7",
+      "gnis:feature_id": "1971861",
+      "name": "Wheelock College",
+      "type": "multipolygon",
+      "wikidata": "Q7992330",
+      "wikipedia": "en:Wheelock College"
+    }
+  },
+  {
+    "name": "Northeastern University",
+    "address": "360, Huntington Avenue, Boston, 02115",
+    "phone": "",
+    "lat": 42.3402359,
+    "lon": -71.0883307,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "360",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Huntington Avenue",
+      "amenity": "university",
+      "education": "university",
+      "name": "Northeastern University",
+      "short_name": "NU",
+      "type": "multipolygon",
+      "website": "https://www.northeastern.edu/",
+      "wikidata": "Q37548",
+      "wikipedia": "en:Northeastern University"
+    }
+  },
+  {
+    "name": "Boston University",
+    "address": "Boston, 02215",
+    "phone": "",
+    "lat": 42.348138,
+    "lon": -71.1090387,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "amenity": "university",
+      "colour": "#CC0000",
+      "education": "university",
+      "mascot": "Terriers",
+      "name": "Boston University",
+      "short_name": "BU",
+      "type": "multipolygon",
+      "website": "https://www.bu.edu/",
+      "wikidata": "Q49110",
+      "wikipedia": "en:Boston University"
+    }
+  },
+  {
+    "name": "Massachusetts Historical Society",
+    "address": "1154, Boylston Street, Boston, 02215",
+    "phone": "+1-617-536-1608",
+    "lat": 42.3464338,
+    "lon": -71.0899024,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "1154",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "addr:street": "Boylston Street",
+      "amenity": "library",
+      "building": "yes",
+      "fax": "+1-617-859-0074",
+      "name": "Massachusetts Historical Society",
+      "opening_hours:covid19": "closed",
+      "phone": "+1-617-536-1608",
+      "type": "multipolygon",
+      "website": "https://www.masshist.org/",
+      "wikidata": "Q95113736"
+    }
+  },
+  {
+    "name": "Berklee College of Music",
+    "address": "Boston, 02215",
+    "phone": "",
+    "lat": 42.3486073,
+    "lon": -71.1056112,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02215",
+      "addr:state": "MA",
+      "amenity": "college",
+      "name": "Berklee College of Music",
+      "site": "school",
+      "type": "site",
+      "website": "https://www.berklee.edu/"
+    }
+  },
+  {
+    "name": "Boston Architectural College",
+    "address": "",
+    "phone": "",
+    "lat": 42.3482816,
+    "lon": -71.0862151,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "Boston Architectural College",
+      "type": "multipolygon",
+      "website": "https://the-bac.edu/",
+      "wikidata": "Q3445063",
+      "wikipedia": "en:Boston Architectural College"
+    }
+  },
+  {
+    "name": "Lesley University",
+    "address": "29, Everett Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3822765,
+    "lon": -71.1209193,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "29",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Everett Street",
+      "amenity": "university",
+      "education": "university",
+      "name": "Lesley University",
+      "type": "multipolygon",
+      "website": "https://lesley.edu/",
+      "wheelchair": "limited",
+      "wikipedia": "en:Lesley University"
+    }
+  },
+  {
+    "name": "Longy School of Music of Bard College",
+    "address": "27, Garden Street, Cambridge, 02138",
+    "phone": "",
+    "lat": 42.3789098,
+    "lon": -71.123713,
+    "tags": {
+      "addr:city": "Cambridge",
+      "addr:housenumber": "27",
+      "addr:postcode": "02138",
+      "addr:state": "MA",
+      "addr:street": "Garden Street",
+      "amenity": "college",
+      "education": "college",
+      "name": "Longy School of Music of Bard College",
+      "type": "multipolygon",
+      "website": "http://www.longy.edu/"
+    }
+  },
+  {
+    "name": "Simmons University",
+    "address": "300, Fenway, Boston, 02115",
+    "phone": "",
+    "lat": 42.3401576,
+    "lon": -71.102904,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "300",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Fenway",
+      "amenity": "university",
+      "education": "university",
+      "ele": "5",
+      "gnis:feature_id": "618417",
+      "name": "Simmons University",
+      "old_name": "Simmons College",
+      "type": "multipolygon",
+      "website": "https://www.simmons.edu/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "wikidata": "Q14437811",
+      "wikipedia": "en:Simmons University"
+    }
+  },
+  {
+    "name": "Hult International Business School",
+    "address": "1, Education Street, 02141",
+    "phone": "+1-617-746-1990",
+    "lat": 42.370357,
+    "lon": -71.0711299,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "02141",
+      "addr:street": "Education Street",
+      "alt_name": "Hult Business School",
+      "amenity": "college",
+      "contact:instagram": "https://www.instagram.com/hultbusinessschool/",
+      "name": "Hult International Business School",
+      "phone": "+1-617-746-1990",
+      "site": "university",
+      "type": "site",
+      "website": "https://www.hult.edu/en/locations/boston/",
+      "wikidata": "Q1047226",
+      "wikipedia": "en:Hult International Business School"
+    }
+  },
+  {
+    "name": "Berklee College of Music",
+    "address": "",
+    "phone": "",
+    "lat": 42.3471055,
+    "lon": -71.0873578,
+    "tags": {
+      "amenity": "college",
+      "education": "college",
+      "name": "Berklee College of Music",
+      "type": "multipolygon",
+      "website": "https://www.berklee.edu/"
+    }
+  },
+  {
+    "name": "Harvard Business School",
+    "address": "Soldiers Field, Boston, 02163",
+    "phone": "",
+    "lat": 42.3659409,
+    "lon": -71.1218745,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:postcode": "02163",
+      "addr:state": "MA",
+      "addr:street": "Soldiers Field",
+      "amenity": "university",
+      "education": "university",
+      "ele": "3",
+      "gnis:feature_id": "1971332",
+      "name": "Harvard Business School",
+      "name:lt": "Harvardo verslo mokykla",
+      "name:uk": "Гарвардська школа бізнесу",
+      "short_name": "HBS",
+      "type": "multipolygon",
+      "website": "https://www.hbs.edu/Pages/default.aspx",
+      "wikidata": "Q49126",
+      "wikipedia": "en:Harvard Business School"
+    }
+  },
+  {
+    "name": "Harvard Athletic Complex",
+    "address": "",
+    "phone": "",
+    "lat": 42.3684375,
+    "lon": -71.1275137,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Harvard Athletic Complex",
+      "operator": "Harvard University",
+      "operator:type": "university",
+      "owner": "Harvard University",
+      "ownership": "private",
+      "protected": "limited",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Harvard University Science and Engineering Complex (SEC)",
+    "address": "",
+    "phone": "",
+    "lat": 42.3627369,
+    "lon": -71.1252372,
+    "tags": {
+      "amenity": "university",
+      "education": "university",
+      "name": "Harvard University Science and Engineering Complex (SEC)",
+      "operator": "Harvard University",
+      "type": "multipolygon"
+    }
+  },
+  {
+    "name": "Harvard Medical School",
+    "address": "25, Shattuck Street, Boston, 02115",
+    "phone": "",
+    "lat": 42.3368895,
+    "lon": -71.102975,
+    "tags": {
+      "addr:city": "Boston",
+      "addr:housenumber": "25",
+      "addr:postcode": "02115",
+      "addr:state": "MA",
+      "addr:street": "Shattuck Street",
+      "amenity": "university",
+      "education": "university",
+      "name": "Harvard Medical School",
+      "operator": "Harvard University",
+      "short_name": "HMS",
+      "type": "multipolygon",
+      "website": "https://hms.harvard.edu/",
+      "wikidata": "Q49121",
+      "wikipedia": "en:Harvard Medical School"
+    }
+  }
+]
