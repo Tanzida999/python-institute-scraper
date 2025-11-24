@@ -1,0 +1,477 @@
+[
+  {
+    "osm_type": "node",
+    "osm_id": 4327682464,
+    "name": "City Ideal School",
+    "address": "",
+    "phone": "",
+    "lat": 23.7030681,
+    "lon": 90.4508047,
+    "tags": {
+      "amenity": "school",
+      "name": "City Ideal School"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5128064989,
+    "name": "জনতাবাগ উচ্চ বিদ্যালয়",
+    "address": "",
+    "phone": "",
+    "lat": 23.6988954,
+    "lon": 90.4575917,
+    "tags": {
+      "amenity": "school",
+      "name": "জনতাবাগ উচ্চ বিদ্যালয়",
+      "name:en": "Janatabag high school"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5419528662,
+    "name": "Muktadhara Pre-Cadet School মুক্তধারা প্রি-ক্যাডেট স্কুল",
+    "address": "",
+    "phone": "",
+    "lat": 23.6931275,
+    "lon": 90.4506772,
+    "tags": {
+      "amenity": "school",
+      "name": "Muktadhara Pre-Cadet School মুক্তধারা প্রি-ক্যাডেট স্কুল"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5614470623,
+    "name": "Matuail Adorsho Kidergarden & High School",
+    "address": "Mridhabari-Shonirakhra Road, Dhaka, 1362, BD",
+    "phone": "",
+    "lat": 23.7123321,
+    "lon": 90.452552,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:country": "BD",
+      "addr:district": "Dhaka",
+      "addr:postcode": "1362",
+      "addr:street": "Mridhabari-Shonirakhra Road",
+      "amenity": "school",
+      "name": "Matuail Adorsho Kidergarden & High School"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 5624730875,
+    "name": "Jamia Islamia Darul Ulum Madania",
+    "address": "312, Dhaka, BD",
+    "phone": "",
+    "lat": 23.7068914,
+    "lon": 90.4379131,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:country": "BD",
+      "addr:housenumber": "312",
+      "addr:place": "Jatrabari",
+      "amenity": "college",
+      "facebook": "https://www.facebook.com/Jamia-Islamia-Darul-Uloom-MadaniaSauth-JatrabariDhaka-294184501051211/",
+      "name": "Jamia Islamia Darul Ulum Madania",
+      "religion": "muslim"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7704393571,
+    "name": "এ.কে. স্কুল অ্যান্ড কলেজ (২য় শাখা)",
+    "address": "Dania Club Road, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.6983468,
+    "lon": 90.4445521,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "Dania Club Road",
+      "amenity": "school",
+      "grades": "1-10",
+      "name": "এ.কে. স্কুল অ্যান্ড কলেজ (২য় শাখা)",
+      "name:en": "A.K. School & College (2nd Campus)",
+      "religion": "muslim",
+      "website": "https://akschoolandcollege.edu.bd/"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7729766282,
+    "name": "A.K. School And College (Main Campus)",
+    "address": "Dania-Dolairpar Road, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.701902,
+    "lon": 90.4431255,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "Dania-Dolairpar Road",
+      "amenity": "college",
+      "internet_access": "wired",
+      "internet_access:fee": "custom",
+      "internet_access:ssid": "Unknown",
+      "name": "A.K. School And College (Main Campus)",
+      "operator": "Md.Najmul Islam Rahat",
+      "operator:type": "government",
+      "website": "https://akschoolandcollege.edu.bd/"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7732902776,
+    "name": "Shamsul Islam Ideal School and College",
+    "address": "Guru Soroni, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.701797,
+    "lon": 90.4473814,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "Guru Soroni",
+      "amenity": "school",
+      "internet_access": "wired",
+      "name": "Shamsul Islam Ideal School and College",
+      "name:bn": "শামসুল ইসলাম আইডিয়াল স্কুল অ্যান্ড কলেজ"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7736906541,
+    "name": "আদর্শ উচ্চ বিদ্যালয়",
+    "address": "আদর্শ স্কুল রোড, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.7040522,
+    "lon": 90.4455024,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "আদর্শ স্কুল রোড",
+      "amenity": "college",
+      "name": "আদর্শ উচ্চ বিদ্যালয়",
+      "name:en": "Adarsha High School"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7746922533,
+    "name": "স্টার লাইট প্রি ক্যাডেট স্কুল",
+    "address": "",
+    "phone": "",
+    "lat": 23.6979749,
+    "lon": 90.4487924,
+    "tags": {
+      "amenity": "school",
+      "grades": "1 to 5",
+      "name": "স্টার লাইট প্রি ক্যাডেট স্কুল",
+      "name:en": "Star Light Pre Cadet School"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7747038148,
+    "name": "S.R. Model School",
+    "address": "",
+    "phone": "",
+    "lat": 23.6983442,
+    "lon": 90.4452641,
+    "tags": {
+      "amenity": "school",
+      "grades": "1 to 5",
+      "name": "S.R. Model School"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 7856562276,
+    "name": "এ.কে. স্কুল অ্যান্ড কলেজ (কলেজ ক্যাম্পাস)",
+    "address": "ঢাকা - ডেমরা মহাসড়ক, Dhaka",
+    "phone": "",
+    "lat": 23.7109724,
+    "lon": 90.4468692,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:street": "ঢাকা - ডেমরা মহাসড়ক",
+      "amenity": "college",
+      "name": "এ.কে. স্কুল অ্যান্ড কলেজ (কলেজ ক্যাম্পাস)",
+      "name:en": "A.K. School and Campus (College Campus)"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 10228104003,
+    "name": "Mukul's Care",
+    "address": "595, দনিয়া-ধোলাইপার রোড, Dhaka, 1236, BD",
+    "phone": "+8801752777065",
+    "lat": 23.701905,
+    "lon": 90.4445349,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:country": "BD",
+      "addr:housenumber": "595",
+      "addr:postcode": "1236",
+      "addr:street": "দনিয়া-ধোলাইপার রোড",
+      "air_conditioning": "yes",
+      "amenity": "college",
+      "internet_access": "wlan",
+      "name": "Mukul's Care",
+      "opening_hours": "Mo-Su 09:00-21:00",
+      "phone": "+8801752777065",
+      "source": "mukul's care;Mukul;Mac Coaching;Physics;Chemistry;ICT;Mukul Sir;Udvash;Unmash",
+      "website": "https://www.facebook.com/mukulscare"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11716248122,
+    "name": "Scholar Pre-Cadet & High School, Dhaka - Barisal Highway, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.7063231,
+    "lon": 90.4345556,
+    "tags": {
+      "amenity": "school",
+      "name": "Scholar Pre-Cadet & High School, Dhaka - Barisal Highway, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11716280131,
+    "name": "Royal Society Residential Area, Residential college, Dhaka - Barisal Highway, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.7064926,
+    "lon": 90.4345812,
+    "tags": {
+      "amenity": "college",
+      "name": "Royal Society Residential Area, Residential college, Dhaka - Barisal Highway, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11730094041,
+    "name": "Madrasatul Falah International Dhaka, High school, Dhaka Mawa Road, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.694671,
+    "lon": 90.4362061,
+    "tags": {
+      "amenity": "school",
+      "name": "Madrasatul Falah International Dhaka, High school, Dhaka Mawa Road, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11730098486,
+    "name": "Jamiatul Abrar Madrasa, Kindergarten, Dhonia - Dholaipar Rd, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.7011249,
+    "lon": 90.4366771,
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "Jamiatul Abrar Madrasa, Kindergarten, Dhonia - Dholaipar Rd, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11740489629,
+    "name": "Bangladesh Water Development Board Primary School, South Jatrabari, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.7073436,
+    "lon": 90.4356945,
+    "tags": {
+      "amenity": "school",
+      "name": "Bangladesh Water Development Board Primary School, South Jatrabari, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11740536192,
+    "name": "Metropolitan School & College, South Jatrabari, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.7085103,
+    "lon": 90.4352421,
+    "tags": {
+      "amenity": "school",
+      "name": "Metropolitan School & College, South Jatrabari, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 11740544096,
+    "name": "Cambrian College South Jatrabari, South Jatrabari, Dhaka",
+    "address": "",
+    "phone": "",
+    "lat": 23.7092705,
+    "lon": 90.4349064,
+    "tags": {
+      "amenity": "college",
+      "name": "Cambrian College South Jatrabari, South Jatrabari, Dhaka"
+    }
+  },
+  {
+    "osm_type": "node",
+    "osm_id": 12438469001,
+    "name": "Udvash Jatrabari Branch",
+    "address": "Shahid Faruk Road",
+    "phone": "09666775566",
+    "lat": 23.7094679,
+    "lon": 90.4329882,
+    "tags": {
+      "addr:street": "Shahid Faruk Road",
+      "amenity": "school",
+      "contact:facebook": "udvash",
+      "contact:instagram": "udvash_unmesh",
+      "email": "info@udvash-unmesh.com",
+      "name": "Udvash Jatrabari Branch",
+      "phone": "09666775566",
+      "website": "https://udvash.com/"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 332593406,
+    "name": "দনিয়া বিশ্ববিদ্যালয় কলেজ",
+    "address": "Dhaka–Chittagong Highway, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.7036155,
+    "lon": 90.4477191,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "Dhaka–Chittagong Highway",
+      "amenity": "college",
+      "name": "দনিয়া বিশ্ববিদ্যালয় কলেজ",
+      "name:en": "Dania University College",
+      "wikidata": "Q18111534",
+      "wikipedia": "en:Dania College"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 332593919,
+    "name": "বর্ণমালা আদর্শ উচ্চ বিদ্যালয় ও কলেজ",
+    "address": "Shanir Akhra, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.7022922,
+    "lon": 90.4481928,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "Shanir Akhra",
+      "amenity": "college",
+      "internet_access": "wired",
+      "internet_access:fee": "customers",
+      "name": "বর্ণমালা আদর্শ উচ্চ বিদ্যালয় ও কলেজ",
+      "name:en": "Bornomala Adarsha High School and College",
+      "website": "https://barnamalasc.edu.bd/",
+      "wikidata": "Q4861401"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 332599781,
+    "name": "Dolairpar High School",
+    "address": "Mirhajirbag Road, Dhaka",
+    "phone": "",
+    "lat": 23.7029608,
+    "lon": 90.4339033,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:street": "Mirhajirbag Road",
+      "amenity": "school",
+      "building:levels": "5",
+      "grades": "1-10",
+      "name": "Dolairpar High School",
+      "name:bn": "ধোলাইরপাড় উচ্চ বিদ্যালয়"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 497098390,
+    "name": "এ.কে. স্কুল অ্যান্ড কলেজ (প্রধান শাখা)",
+    "address": "Dania-Dolairpar Road, Dhaka, 1236",
+    "phone": "",
+    "lat": 23.7019235,
+    "lon": 90.4430708,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1236",
+      "addr:street": "Dania-Dolairpar Road",
+      "amenity": "college",
+      "grades": "1-12",
+      "name": "এ.কে. স্কুল অ্যান্ড কলেজ (প্রধান শাখা)",
+      "name:en": "A.K. School And College(Main Campus)",
+      "website": "https://akschoolandcollege.edu.bd/",
+      "wikidata": "Q4648024",
+      "wikipedia": "en:A. K. High School and College"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 497321588,
+    "name": "Dr. Mahbubur Rahman Mollah College",
+    "address": "Dhaka, 1362",
+    "phone": "",
+    "lat": 23.7164649,
+    "lon": 90.461845,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1362",
+      "building": "college",
+      "building:levels": "10",
+      "layer": "1",
+      "name": "Dr. Mahbubur Rahman Mollah College"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 509779096,
+    "name": "Dolairpar Primery School",
+    "address": "West Dolairpar, dolaipar high school road, Dhaka, 1204",
+    "phone": "",
+    "lat": 23.7025803,
+    "lon": 90.4333141,
+    "tags": {
+      "addr:housenumber": "West Dolairpar",
+      "addr:postcode": "1204",
+      "addr:street": "dolaipar high school road",
+      "building": "school",
+      "building:levels": "0",
+      "name": "Dolairpar Primery School"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 509779098,
+    "name": "Dolairpar High School. Building-1",
+    "address": "dolaipar high school road, Dhaka, 1204",
+    "phone": "",
+    "lat": 23.7027843,
+    "lon": 90.4333821,
+    "tags": {
+      "addr:city": "Dhaka",
+      "addr:postcode": "1204",
+      "addr:street": "dolaipar high school road",
+      "building": "school",
+      "name": "Dolairpar High School. Building-1"
+    }
+  },
+  {
+    "osm_type": "way",
+    "osm_id": 534501015,
+    "name": "Dhaka International Diploma Medical College",
+    "address": "",
+    "phone": "",
+    "lat": 23.7010008,
+    "lon": 90.4350937,
+    "tags": {
+      "building": "college",
+      "name": "Dhaka International Diploma Medical College"
+    }
+  }
+]

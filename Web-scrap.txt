@@ -1,0 +1,7 @@
+Command for web scraping nearby institution search:
+
+Convert cambridge.json to names.csv:
+python .\web-scraping\json_to_names_csv.py -i cambridge.json -o names.csv
+
+Command to get the nearby institutions:
+python .\web-scraping\scrap.py -l "Shonir akhra, Dhaka, Bangladesh" -o cambridge.json -f json
