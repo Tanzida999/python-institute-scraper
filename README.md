@@ -1,51 +1,83 @@
 # Nearby Institutes Scraper
 
-A small Python script that finds nearby institutes (schools, colleges, universities, training centers, libraries) using OpenStreetMap's Nominatim (geocoding) and Overpass APIs. The script extracts the name, address (when available), phone number (when present in OSM tags), and coordinates, and writes results to CSV or JSON.
+A small Python toolset that finds nearby institutes (schools, colleges, universities, training centers, libraries) using OpenStreetMap's Nominatim (geocoding) and Overpass APIs, then lets you extract and export selected fields (name, address, phone, coordinates, category) to CSV or XLSX.
 
 **Requirements**
 
 - Python 3.8+
 - `requests` library
+- Optional for Excel output: `openpyxl`
 
-Install the dependency:
+Install dependencies:
 
 ```powershell
 pip install requests
+pip install openpyxl    # optional, only needed for .xlsx output
 ```
 
 **Files**
 
-- `web-scraping/scrap.py` — main scraper script
+- `web-scraping/scrap.py` — main scraper (queries Nominatim + Overpass)
+- `web-scraping/json_to_names_csv.py` — utility to extract fields from a scraper JSON result and write CSV or XLSX
 
-**Usage**
-
-Run the script from the repository root. Examples (PowerShell):
+**Common scraper usage** (run from repository root; PowerShell):
 
 ```powershell
 # Geocode 'Cambridge, MA' and save CSV
 python .\web-scraping\scrap.py --location "Cambridge, MA" --radius 3000 --output results.csv
 
-# Same, but save JSON
+# Save JSON instead
 python .\web-scraping\scrap.py -l "Cambridge, MA" -r 3000 -o results.json -f json
 
-# Use IP-based location fallback and default radius (2000m)
-python .\web-scraping\scrap.py -r 2000 -o near_me.csv
+# Use IP-based location fallback (no --location) and default radius (2000m)
+python .\web-scraping\scrap.py -r 2000 -o near_me.json -f json
+
+# If Nominatim returns 403, set a contact email (recommended)
+$env:OSM_EMAIL='you@example.com'; python .\web-scraping\scrap.py -l "Shonir Akhra" -r 3000 -o res.csv
 ```
 
-**Output**
+**Extracting fields from the JSON output**
 
-- CSV fields: `name`, `address`, `phone`, `lat`, `lon`
-- JSON: array of objects with `name`, `address`, `phone`, `lat`, `lon`, and raw `tags` from OSM
+The `json_to_names_csv.py` utility reads the JSON file produced by the scraper (or any similar array/object) and writes a CSV or XLSX with selected fields.
+
+Basic examples (PowerShell):
+
+```powershell
+# Extract only names to CSV (UTF-8 with BOM so Excel displays Bangla correctly)
+python .\web-scraping\json_to_names_csv.py -i .\nearby-institute.json -o nearby-names.csv
+
+# Extract name and address columns
+python .\web-scraping\json_to_names_csv.py -i .\nearby-institute.json -o nearby-name-address.csv --fields name,address
+
+# Extract name and auto-detected category (school/college/madrasa/other)
+python .\web-scraping\json_to_names_csv.py -i .\nearby-institute.json -o nearby-name-category.csv --fields name,category
+
+# Write a real Excel .xlsx (requires openpyxl)
+pip install openpyxl
+python .\web-scraping\json_to_names_csv.py -i .\nearby-institute.json -o nearby-name-address-category.xlsx --fields name,address,category --xlsx
+
+# The utility will also infer output format from the output filename (.csv or .xlsx)
+```
+
+Supported fields (examples): `name`, `address`, `phone`, `lat`, `lon`, `osm_id`, `osm_type`, `category`.
+
+- `category` is inferred by heuristics from OSM tags and name keywords (returns `school`, `college`, `madrasa`, or `other`).
+
+**Excel / Bangla support**
+
+- CSV files are written as UTF-8 with a BOM (`utf-8-sig`) so Excel on Windows correctly recognizes UTF-8 and displays Bangla text. If Excel still shows garbled text, use Data → From Text/CSV and choose UTF-8 as the file origin.
+- For native `.xlsx` files, install `openpyxl` as shown above.
 
 **Notes & Limitations**
 
-- The script uses the public Nominatim and Overpass endpoints. Respect their usage policies and avoid sending heavy automated traffic. For high-volume or commercial use consider paid APIs or hosting your own Overpass/Nominatim instance.
-- OSM data varies by region — phone numbers and address components may be missing or incomplete.
-- Network access is required to run the script.
+- The scraper uses public Nominatim and Overpass endpoints — respect their usage policies and avoid heavy automated scraping. For heavy use, run your own instances or use paid APIs.
+- OSM tagging is inconsistent; some objects may lack addresses, phones, or explicit tags for institute type. The `category` field is heuristic and may not be perfect.
 
-**Next steps**
+If you want, I can:
 
-- If you want, I can add a `requirements.txt`, run the script for a sample location, or extend the POI filters to include other types of institutes.
+- Add a `requirements.txt` with pinned versions.
+- Run the extractor on `nearby-institute.json` and add the generated CSV/XLSX to the repository.
+- Improve `category` heuristics for local language keywords you care about.
 
 **Credits**
 

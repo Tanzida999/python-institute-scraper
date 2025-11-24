@@ -116,6 +116,52 @@ def extract_phone(tags: Dict) -> str:
     return ""
 
 
+def determine_category(item: Dict[str, Any]) -> str:
+    """Determine whether an item is a 'school', 'college', 'madrasa', or 'other'.
+
+    Heuristics used (in order):
+    - Check explicit tags: amenity, building, office
+    - Check common keywords in name or tags (case-insensitive), including Bangla keywords
+    - Default to 'other'
+    """
+    tags = (item.get("tags") or {})
+    amenity = (tags.get("amenity") or "").lower()
+    building = (tags.get("building") or "").lower()
+    office = (tags.get("office") or "").lower()
+    name = (extract_name(item) or "").lower()
+
+    # explicit tag checks
+    if amenity in ("school",):
+        return "school"
+    if amenity in ("college", "university") or building in ("college", "university"):
+        return "college"
+
+    # madrasa detection: keyword in name or a tag
+    madrasa_keywords = ["madrasa", "madrash", "মাদ্রাসা", "মাদ্রাসা"]
+    for kw in madrasa_keywords:
+        if kw in name:
+            return "madrasa"
+    # also check tags that may indicate religious school
+    if tags.get("madrasa") or tags.get("religion") == "muslim" and "madrasa" in name:
+        return "madrasa"
+
+    # broader heuristics for schools vs colleges: name keywords
+    school_keywords = ["school", "schooling", "বিদ্যালয়", "বিদ্যালয়", "primary", "secondary"]
+    college_keywords = ["college", "university", "institute", "institute of", "কলেজ", "বিশ্ববিদ্যালয়"]
+    for kw in school_keywords:
+        if kw in name:
+            return "school"
+    for kw in college_keywords:
+        if kw in name:
+            return "college"
+
+    # office/building tags indicating education
+    if office in ("education", "training") or building in ("school",):
+        return "school"
+
+    return "other"
+
+
 def extract_value(item: Dict[str, Any], field: str) -> str:
     tags = item.get("tags") or {}
     field = field.strip()
@@ -126,6 +172,8 @@ def extract_value(item: Dict[str, Any], field: str) -> str:
         return (item.get("address") or extract_address(tags) or "")
     if field == "phone":
         return (item.get("phone") or extract_phone(tags) or "")
+    if field == "category":
+        return determine_category(item)
     if field in ("lat", "lon", "osm_id", "osm_type"):
         return str(item.get(field, "")) if item.get(field, None) is not None else ""
     # generic: top-level then tags
