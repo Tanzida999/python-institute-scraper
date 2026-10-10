@@ -73,11 +73,7 @@ Supported fields (examples): `name`, `address`, `phone`, `lat`, `lon`, `osm_id`,
 - The scraper uses public Nominatim and Overpass endpoints — respect their usage policies and avoid heavy automated scraping. For heavy use, run your own instances or use paid APIs.
 - OSM tagging is inconsistent; some objects may lack addresses, phones, or explicit tags for institute type. The `category` field is heuristic and may not be perfect.
 
-If you want, I can:
 
-- Add a `requirements.txt` with pinned versions.
-- Run the extractor on `nearby-institute.json` and add the generated CSV/XLSX to the repository.
-- Improve `category` heuristics for local language keywords you care about.
 
 **Credits**
 
